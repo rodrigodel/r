@@ -1,2 +1,2 @@
 # r
-Alguns aprendizados em R
+Simplex em R
