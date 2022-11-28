@@ -1,2 +1,1 @@
-# r
-Simplex em R
+Códigos em R
