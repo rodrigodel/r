@@ -1,0 +1,1107 @@
+bebida,borda,ingrediente 1,ingrediente 2,ingrediente 3,ingrediente 4,ingrediente 5,massa,queijo 1,queijo 2
+refrigerante,borda tradicional,pepperoni,orégano,frango,calabresa,bacon,massa final,mussarela,provolone
+refrigerante,cheddar,pepperoni,tomate,presunto,palmito,bacon,massa tradicional,mussarela,provolone
+cerveja,sabor catupiry,pepperoni,pimenta biquinho,linguiça calabresa defumada,cogumelos,alho-poró,massa final,mussarela,catupiry
+refrigerante,cheddar,cebola,pimenta calabresa,calabresa,NA,NA,massa tradicional,mussarela,NA
+suco de laranja,borda tradicional,pepperoni,tomate,cogumelos,cebola caramelizada,azeitona,massa grossa,provolone,gorgonzola
+suco de laranja,cream cheese,cebola,tomate,azeitona,NA,NA,massa tradicional,mussarela,provolone
+suco de laranja,sabor catupiry,presunto,orégano,milho,azeitona,NA,massa grossa,mussarela,catupiry
+cerveja,cream cheese,presunto,tomate,rúcula,orégano,bacon,massa tradicional,mussarela,cheddar
+refrigerante,borda tradicional,pepperoni,tomate seco,presunto,carne seca,bacon,massa final,mussarela,queijo coalho
+água com gás,sabor catupiry,pepperoni,linguiça calabresa defumada,carne seca,camarão,alho-poró,massa final,mussarela,gorgonzola
+refrigerante,cheddar,orégano,tomate seco,pimenta biquinho,carne seca,alho-poró,massa grossa,mussarela,parmesão
+água com gás,cheddar,presunto,tomate,milho,linguiça calabresa defumada,bacon,massa tradicional,mussarela,catupiry
+cerveja,cream cheese,presunto,tomate,orégano,cebola,bacon,massa integral,mussarela,queijo brie
+vinho tinto,sabor catupiry,pepperoni,queijo roquefort,cogumelos,carne seca,camarão,massa final,provolone,gorgonzola
+suco de laranja,sabor catupiry,pepperoni,orégano,cebola,carne seca,bacon,massa final,mussarela,catupiry
+suco de uva,sabor catupiry,azeitona,brócolis,palmito,orégano,azeite de oliva,massa tradicional,mussarela,catupiry
+cerveja,sabor catupiry,tomate,NA,NA,NA,NA,massa tradicional,mussarela,gorgonzola
+refrigerante,borda tradicional,cogumelos,palmito,abacaxi,NA,NA,massa grossa,mussarela,queijo brie
+refrigerante,borda tradicional,cogumelos,palmito,ovo,cebola,ervilha,massa tradicional,mussarela,queijo brie
+refrigerante,borda tradicional,cebola,calabresa,pimentão,tomate,orégano,massa tradicional,mussarela,NA
+suco de maracujá,sabor catupiry,frango,bacon,pepperoni,calabresa,cebola,massa final,mussarela,parmesão
+suco de laranja,borda tradicional,alho,pepperoni,cogumelos,alho-poró,tomate seco,massa final,mussarela,provolone
+vinho tinto,sabor catupiry,pepperoni,milho,tomate seco,azeitona,queijo cheddar,massa final,mussarela,parmesão
+refrigerante,borda tradicional,calabresa,orégano,pimenta calabresa,linguiça calabresa defumada,azeite de oliva,massa grossa,mussarela,catupiry
+refrigerante,borda tradicional,tomate,pimentão,cogumelos,palmito,rúcula,massa final,mussarela,provolone
+chá gelado,cream cheese,calabresa,orégano,bacon,cebola,alho,massa grossa,mussarela,queijo brie
+vinho tinto,borda tradicional,milho,bacon,NA,NA,pepperoni,massa final,parmesão,NA
+vinho tinto,sabor catupiry,camarão,pepperoni,tomate seco,orégano,cebola,massa tradicional,parmesão,queijo brie
+vinho tinto,sabor catupiry,pepperoni,tomate,alho,bacon,linguiça calabresa defumada,massa tradicional,mussarela,provolone
+refrigerante,sabor catupiry,pepperoni,calabresa,cebola,queijo cheddar,alho,massa final,mussarela,parmesão
+chá gelado,cream cheese,mel,cebola caramelizada,alho,linguiça calabresa defumada,pimenta calabresa,massa tradicional,mussarela,gorgonzola
+NA,borda tradicional,bacon,tomate,frango,berinjela,abobrinha,massa tradicional,mussarela,NA
+refrigerante,borda tradicional,queijo coalho grelhado,pepperoni,presunto,alho,orégano,massa tradicional,mussarela,parmesão
+cerveja,borda tradicional,frango,azeitona,pimentão,bacon,cebola,massa tradicional,mussarela,catupiry
+suco de abacaxi,sabor catupiry,alcaparra,cogumelos,tomate,lentilha,palmito,massa final,mussarela,gorgonzola
+cerveja,borda tradicional,calabresa,pepperoni,NA,NA,NA,massa final,mussarela,parmesão
+refrigerante,cream cheese,cebola,bacon,rúcula,orégano,calabresa,massa final,parmesão,mussarela
+refrigerante,sabor catupiry,calabresa,presunto,tomate,alho,cebola,massa tradicional,mussarela,cheddar
+vinho tinto,borda tradicional,cogumelos,carne seca,azeite de oliva,presunto,tomate seco,massa tradicional,queijo brie,ricota
+suco de uva,sabor catupiry,bacon,frango,carne seca,linguiça calabresa defumada,calabresa,massa tradicional,catupiry,gorgonzola
+cerveja,sabor catupiry,tomate,azeitona,presunto,bacon,linguiça calabresa defumada,massa grossa,parmesão,mussarela
+refrigerante,borda tradicional,bacon,azeitona,orégano,pimenta calabresa,calabresa,massa tradicional,mussarela,catupiry
+refrigerante,borda tradicional,bacon,ovo,tomate,milho,presunto,massa tradicional,parmesão,mussarela
+suco de laranja,borda tradicional,calabresa,cebolinha,presunto,tomate,bacon,massa tradicional,catupiry,mussarela
+água com gás,sabor catupiry,calabresa,cebola,NA,NA,NA,massa final,mussarela,NA
+suco de abacaxi,cheddar,alho,cogumelos,pimentão,azeitona,pepperoni,massa tradicional,gorgonzola,cheddar
+refrigerante,cream cheese,presunto,calabresa,frango,bacon,tomate,massa tradicional,mussarela,cheddar
+suco de laranja,sabor catupiry,bacon,alho,cogumelos,pimenta calabresa,queijo cheddar,massa grossa,mussarela,queijo brie
+cerveja,sabor catupiry,bacon,frango,calabresa,calabresa,tomate seco,massa tradicional,provolone,gorgonzola
+suco de laranja,sabor catupiry,frango,bacon,cebola caramelizada,pimenta calabresa,azeitona,massa tradicional,mussarela,gorgonzola
+vinho tinto,borda tradicional,nozes,cebola,alho,amêndoas,NA,massa tradicional,mussarela,provolone
+suco de abacaxi,sabor catupiry,presunto,carne seca,azeitona,palmito,bacon,massa tradicional,mussarela,ricota
+suco de laranja,borda tradicional,tomate,bacon,frango,calabresa,ovo,massa tradicional,parmesão,mussarela
+refrigerante,cream cheese,presunto,tomate,azeitona,bacon,amêndoas,massa tradicional,mussarela,catupiry
+refrigerante,borda tradicional,pepperoni,tomate,rúcula,azeitona,queijo cheddar,massa tradicional,mussarela,parmesão
+vinho tinto,borda tradicional,tomate,bacon,cebola,azeitona,azeite de oliva,massa tradicional,mussarela,gorgonzola
+refrigerante,sabor catupiry,queijo de cabra,pepperoni,orégano,pepperoni,queijo roquefort,massa tradicional,gorgonzola,cheddar
+suco de laranja,borda tradicional,abacaxi,azeitona,presunto,tomate,frango,massa tradicional,mussarela,catupiry
+refrigerante,sabor catupiry,presunto,tomate,azeitona,orégano,alho,massa tradicional,mussarela,catupiry
+suco de abacaxi,cheddar,cogumelos,azeitona,abacaxi,alho-poró,cebola caramelizada,massa integral,queijo brie,parmesão
+refrigerante,borda tradicional,pepperoni,bacon,frango,linguiça calabresa defumada,NA,massa tradicional,mussarela,mussarela
+água com gás,borda tradicional,azeitona,tomate seco,cogumelos,presunto,bacon,massa final,mussarela,gorgonzola
+cerveja,cheddar,pimentão,tomate,calabresa,azeite de oliva,alho,massa final,parmesão,catupiry
+cerveja,sabor catupiry,calabresa,queijo coalho grelhado,bacon,cebolinha,alho-poró,massa final,mussarela,provolone
+refrigerante,sabor catupiry,azeitona,tomate seco,NA,NA,NA,massa tradicional,mussarela,queijo brie
+vinho tinto,sabor catupiry,alho,cebola,tomate,bacon,mel,massa tradicional,mussarela,queijo brie
+refrigerante,borda tradicional,pepperoni,tomate,atum,milho,frango,massa tradicional,mussarela,parmesão
+refrigerante,borda tradicional,presunto,NA,NA,NA,NA,massa tradicional,mussarela,NA
+cerveja,sabor catupiry,pepperoni,pimenta calabresa,rúcula,bacon,orégano,massa final,mussarela,parmesão
+refrigerante,borda tradicional,cebola,azeitona,orégano,tomate,bacon,massa tradicional,mussarela,parmesão
+suco de maracujá,cheddar,azeitona,cebola,calabresa,alho-poró,orégano,massa tradicional,mussarela,catupiry
+suco de uva,sabor catupiry,bacon,palmito,rúcula,tomate seco,azeite de oliva,massa tradicional,mussarela,gorgonzola
+cerveja,cheddar,brócolis,pimentão,salsinha,queijo roquefort,grão de bico,massa tradicional,catupiry,gorgonzola
+vinho tinto,cheddar,cogumelos,cebola,alho,atum,azeite de oliva,massa tradicional,mussarela,catupiry
+refrigerante,sabor catupiry,azeitona,brócolis,frango,orégano,tomate seco,massa final,mussarela,cheddar
+suco de maracujá,sabor catupiry,cebola,cogumelos,brócolis,tomate,azeite de oliva,massa tradicional,gorgonzola,catupiry
+suco de maracujá,cream cheese,brócolis,frango,cebola,alho-poró,tomate,massa tradicional,mussarela,parmesão
+suco de laranja,borda tradicional,cogumelos,brócolis,tomate seco,NA,NA,massa final,mussarela,ricota
+chá gelado,borda tradicional,pepperoni,cebola,cogumelos,NA,NA,massa tradicional,mussarela,gorgonzola
+refrigerante,cheddar,cogumelos,cebola,calabresa,salsinha,palmito,massa tradicional,mussarela,gorgonzola
+refrigerante,borda tradicional,azeitona,tomate,camarão,cebola,pepperoni,massa final,mussarela,parmesão
+cerveja,sabor catupiry,cebola,milho,pepperoni,bacon,orégano,massa final,catupiry,mussarela
+água com gás,sabor catupiry,bacon,atum,azeitona,palmito,alcaparra,massa final,catupiry,cheddar
+cerveja,sabor catupiry,pepperoni,cogumelos,mel,alho,pimenta biquinho,massa tradicional,mussarela,queijo brie
+limonada,cream cheese,alcaparra,cogumelos,cebola,brócolis,azeitona,massa tradicional,parmesão,gorgonzola
+cerveja,borda tradicional,presunto,azeitona,cebola,calabresa,ovo,massa final,mussarela,cheddar
+suco de laranja,cream cheese,carne seca,cebola,tomate,brócolis,pimentão,massa tradicional,parmesão,gorgonzola
+refrigerante,sabor catupiry,cogumelos,palmito,brócolis,tomate seco,NA,massa tradicional,mussarela,parmesão
+refrigerante,cheddar,linguiça,cebola,presunto,pepperoni,pimentão,massa grossa,mussarela,queijo coalho
+chá gelado,sabor catupiry,cogumelos,alho,azeite de oliva,presunto,pimenta calabresa,massa tradicional,mussarela,parmesão
+vinho tinto,cream cheese,alho,cebola,tomate,pepperoni,rúcula,massa tradicional,mussarela,queijo coalho
+suco de laranja,sabor catupiry,cebola,orégano,azeitona,calabresa,carne seca,massa tradicional,mussarela,provolone
+água com gás,borda tradicional,pepperoni,cebola,azeite de oliva,NA,NA,massa final,mussarela,gorgonzola
+suco de laranja,borda tradicional,cogumelos,nozes,alho-poró,alho,mel,massa tradicional,queijo brie,mussarela
+limonada,sabor catupiry,frango,presunto,camarão,carne moída,orégano,massa tradicional,catupiry,mussarela
+suco de uva,borda tradicional,abobrinha,bacon,tomate,espinafre,tomate seco,massa final,mussarela,gorgonzola
+refrigerante,sabor catupiry,frango,bacon,milho,NA,NA,massa tradicional,mussarela,NA
+suco de abacaxi,borda tradicional,bacon,calabresa,cogumelos,palmito,milho,massa tradicional,mussarela,queijo coalho
+refrigerante,cheddar,presunto,bacon,calabresa,milho,ovo,massa tradicional,mussarela,cheddar
+limonada,sabor catupiry,tomate seco,cogumelos,rúcula,pepperoni,NA,massa tradicional,gorgonzola,mussarela
+chá gelado,borda tradicional,azeitona,rúcula,bacon,milho,carne seca,massa integral,gorgonzola,provolone
+limonada,sabor catupiry,rúcula,azeitona,tomate,calabresa,presunto,massa grossa,mussarela,parmesão
+suco de laranja,sabor catupiry,pepperoni,bacon,tomate,alho,frango,massa tradicional,mussarela,catupiry
+cerveja,borda tradicional,cogumelos,tomate,alcaparra,azeite de oliva,presunto,massa final,parmesão,mussarela
+suco de laranja,borda tradicional,cogumelos,nozes,alho-poró,alho,mel,massa tradicional,queijo brie,mussarela
+suco de laranja,borda tradicional,calabresa,carne seca,bacon,frango,cebola,massa final,mussarela,provolone
+refrigerante,borda tradicional,pepperoni,cebola,bacon,alho,palmito,massa tradicional,mussarela,parmesão
+cerveja,cheddar,calabresa,bacon,linguiça,carne moída,pimentão,massa tradicional,mussarela,cheddar
+refrigerante,cheddar,azeitona,tomate,cebola,bacon,calabresa,massa tradicional,cheddar,parmesão
+cerveja,cheddar,brócolis,queijo de cabra,frango,tomate,cogumelos,massa tradicional,mussarela,parmesão
+refrigerante,sabor catupiry,tomate,picles,milho,calabresa,cebola,massa tradicional,cheddar,parmesão
+vinho tinto,borda tradicional,azeitona,tomate,orégano,NA,NA,massa tradicional,mussarela,gorgonzola
+cerveja,cream cheese,alho,cogumelos,azeite de oliva,tomate,alho-poró,massa tradicional,mussarela,gorgonzola
+refrigerante,sabor catupiry,pepperoni,cogumelos,tomate seco,bacon,atum,massa grossa,mussarela,gorgonzola
+refrigerante,sabor catupiry,tomate,frango,cogumelos,azeitona,palmito,massa tradicional,catupiry,cheddar
+suco de abacaxi,borda tradicional,cogumelos,presunto,pepperoni,alho,pimentão,massa tradicional,mussarela,mussarela
+refrigerante,borda tradicional,tomate,azeite de oliva,orégano,azeitona,cebola,massa final,mussarela,queijo coalho
+refrigerante,borda tradicional,cebola,calabresa,orégano,NA,NA,massa tradicional,mussarela,parmesão
+vinho tinto,borda tradicional,pêssego,cogumelos,bacon,anchova em conserva,NA,massa final,provolone,gorgonzola
+água com gás,borda tradicional,cogumelos,cogumelos,mel,pepperoni,pepperoni,massa final,mussarela,queijo brie
+refrigerante,cream cheese,pepperoni,cebola,orégano,tomate seco,azeitona,massa final,mussarela,provolone
+cerveja,sabor catupiry,pepperoni,pimentão,bacon,linguiça,cebola,massa tradicional,queijo brie,cheddar
+suco de laranja,cheddar,calabresa,bacon,queijo cheddar,orégano,frango,massa grossa,cheddar,NA
+suco de laranja,cheddar,bacon,calabresa,azeitona,queijo cheddar,ervilha,massa tradicional,mussarela,parmesão
+vinho tinto,borda tradicional,carne seca,NA,NA,NA,NA,massa tradicional,NA,NA
+limonada,sabor catupiry,cebola,tomate,azeitona,pimentão,azeite de oliva,massa tradicional,queijo brie,queijo coalho
+cerveja,sabor catupiry,calabresa,bacon,frango,NA,NA,massa tradicional,mussarela,parmesão
+suco de maracujá,borda tradicional,cebola,presunto,cogumelos,tomate,frango,massa final,mussarela,cheddar
+suco de laranja,sabor catupiry,tomate,frango,pepperoni,cebola,azeitona,massa grossa,queijo brie,ricota
+refrigerante,borda tradicional,pepperoni,tomate,cebola,pimentão,brócolis,massa tradicional,mussarela,cheddar
+suco de maracujá,sabor catupiry,cebola,presunto,brócolis,pepperoni,carne seca,massa integral,mussarela,cheddar
+suco de uva,cream cheese,cebola,alho,linguiça calabresa defumada,bacon,NA,massa final,mussarela,NA
+refrigerante,sabor catupiry,cebola,tomate,bacon,carne seca,pepperoni,massa tradicional,cheddar,mussarela
+refrigerante,borda tradicional,tomate,azeitona,picles,presunto,palmito,massa tradicional,mussarela,cheddar
+água com gás,borda tradicional,azeitona,azeite de oliva,camarão,cebola caramelizada,rúcula,massa final,NA,NA
+refrigerante,cream cheese,cogumelos,brócolis,alho,cebola,bacon,massa final,gorgonzola,parmesão
+água com gás,sabor catupiry,bacon,tomate seco,atum,calabresa,queijo gouda,massa tradicional,catupiry,cheddar
+suco de maracujá,borda tradicional,pepperoni,orégano,queijo coalho grelhado,azeite de oliva,bacon,massa grossa,mussarela,gorgonzola
+refrigerante,cheddar,alho,alcaparra,azeite de oliva,rúcula,bacon,massa tradicional,cheddar,provolone
+refrigerante,borda tradicional,pepperoni,frango,tomate,azeitona,alho,massa tradicional,mussarela,cheddar
+refrigerante,sabor catupiry,tomate,azeitona,cogumelos,orégano,frango,massa tradicional,mussarela,catupiry
+suco de laranja,cream cheese,bacon,milho,ovo,calabresa,frango,massa tradicional,mussarela,queijo coalho
+vinho tinto,sabor catupiry,palmito,milho,brócolis,cogumelos,pepperoni,massa tradicional,queijo brie,mussarela
+refrigerante,borda tradicional,pepperoni,cebola,alho,tomate,azeitona,massa final,mussarela,queijo brie
+água com gás,cheddar,cogumelos,pepperoni,azeitona,palmito,bacon,massa grossa,gorgonzola,provolone
+suco de laranja,sabor catupiry,bacon,orégano,calabresa,calabresa,queijo cheddar,massa final,mussarela,cheddar
+refrigerante,sabor catupiry,presunto,tomate,calabresa,orégano,frango,massa tradicional,mussarela,queijo coalho
+chá gelado,sabor catupiry,pepperoni,tomate,tomate seco,linguiça calabresa defumada,orégano,massa tradicional,mussarela,queijo brie
+vinho tinto,borda tradicional,bacon,calabresa,alho,ovo,linguiça calabresa defumada,massa tradicional,mussarela,provolone
+cerveja,borda tradicional,brócolis,alho,tofu,tomate,cebola,massa final,NA,NA
+suco de laranja,borda tradicional,cogumelos,tomate,pimenta biquinho,carne seca,cebola,massa tradicional,queijo brie,parmesão
+NA,borda tradicional,presunto,pepperoni,milho,ovo,salsinha,massa tradicional,parmesão,mussarela
+refrigerante,cream cheese,tomate,azeitona,cebola,cogumelos,palmito,massa final,gorgonzola,mussarela
+cerveja,borda tradicional,azeitona,cogumelos,tomate,cebola,brócolis,massa grossa,NA,NA
+suco de abacaxi,sabor catupiry,azeitona,tomate,orégano,milho,NA,massa tradicional,mussarela,parmesão
+refrigerante,borda tradicional,calabresa,alho,cebola,NA,NA,massa tradicional,mussarela,parmesão
+suco de laranja,cream cheese,cebola,tomate,bacon,carne seca,frango,massa final,queijo coalho,mussarela
+vinho tinto,borda tradicional,pepperoni,tomate,cebola,cogumelos,queijo gouda,massa final,gorgonzola,mussarela
+cerveja,sabor catupiry,calabresa,pepperoni,alho,pimenta calabresa,azeite de oliva,massa tradicional,parmesão,catupiry
+refrigerante,sabor catupiry,pimentão,tomate,milho,cebola,frango,massa final,mussarela,parmesão
+refrigerante,cheddar,pepperoni,azeitona,alho,orégano,cebolinha,massa tradicional,catupiry,mussarela
+vinho tinto,sabor catupiry,pepperoni,alho,orégano,pimenta calabresa,alho-poró,massa final,cheddar,catupiry
+suco de abacaxi,cream cheese,pepperoni,cogumelos,cebola caramelizada,abacaxi,pimenta biquinho,massa grossa,mussarela,provolone
+cerveja,borda tradicional,pepperoni,tomate,azeitona,cebola,cogumelos,massa final,mussarela,cheddar
+refrigerante,borda tradicional,alho,carne seca,NA,salsinha,NA,massa final,NA,catupiry
+vinho tinto,sabor catupiry,cogumelos,frango,NA,NA,NA,massa tradicional,catupiry,mussarela
+refrigerante,sabor catupiry,pepperoni,azeitona,tomate,NA,NA,massa final,mussarela,NA
+cerveja,borda tradicional,pepperoni,azeitona,bacon,orégano,carne seca,massa tradicional,mussarela,queijo coalho
+suco de laranja,sabor catupiry,frango,orégano,NA,NA,NA,massa tradicional,mussarela,NA
+suco de laranja,sabor catupiry,presunto,bacon,cebola,tomate,presunto,massa tradicional,mussarela,cheddar
+refrigerante,sabor catupiry,azeitona,pepperoni,bacon,tomate,presunto,massa grossa,mussarela,parmesão
+suco de abacaxi,cream cheese,tomate,pepperoni,cebola,azeitona,cogumelos,massa tradicional,mussarela,mussarela
+cerveja,sabor catupiry,pepperoni,presunto,bacon,ovo,cogumelos,massa tradicional,mussarela,mussarela
+refrigerante,borda tradicional,presunto,tomate,azeitona,milho,bacon,massa final,mussarela,parmesão
+refrigerante,borda tradicional,tomate,calabresa,orégano,cebola,azeitona,massa tradicional,mussarela,provolone
+refrigerante,sabor catupiry,azeitona,cebolinha,tomate,NA,orégano,massa tradicional,provolone,mussarela
+chá gelado,borda tradicional,abobrinha,calabresa,NA,azeite de oliva,espinafre,massa tradicional,mussarela,ricota
+refrigerante,sabor catupiry,carne seca,cebola,pimentão,bacon,tomate,massa final,mussarela,catupiry
+suco de uva,sabor catupiry,bacon,linguiça calabresa defumada,presunto,frango,queijo cheddar,massa grossa,mussarela,provolone
+cerveja,borda tradicional,rúcula,cogumelos,ovo,tomate,pepperoni,massa tradicional,mussarela,gorgonzola
+refrigerante,cheddar,pepperoni,tomate,rúcula,presunto,azeitona,massa final,mussarela,catupiry
+cerveja,sabor catupiry,azeitona,tomate,pepperoni,cebolinha,carne seca,massa tradicional,queijo brie,ricota
+limonada,cheddar,brócolis,calabresa,bacon,cebola,cogumelos,massa final,cheddar,mussarela
+água com gás,cheddar,calabresa,bacon,tomate,orégano,queijo coalho grelhado,massa final,mussarela,catupiry
+suco de abacaxi,borda tradicional,queijo gouda,milho,cebola caramelizada,frango,queijo coalho grelhado,massa tradicional,mussarela,provolone
+água com gás,sabor catupiry,calabresa,cebolinha,tomate,orégano,azeite de oliva,massa tradicional,mussarela,NA
+refrigerante,sabor catupiry,milho,presunto,bacon,calabresa,orégano,massa final,mussarela,provolone
+refrigerante,sabor catupiry,presunto,tomate,ovo,calabresa,bacon,massa tradicional,provolone,mussarela
+refrigerante,sabor catupiry,calabresa,queijo coalho grelhado,cebola,NA,NA,massa grossa,mussarela,NA
+limonada,borda tradicional,cogumelos,alho,anchova,pimenta biquinho,cogumelos,massa tradicional,catupiry,ricota
+refrigerante,sabor catupiry,cogumelos,frango,calabresa,pimentão,milho,massa tradicional,mussarela,catupiry
+água com gás,sabor catupiry,cogumelos,bacon,palmito,frango,orégano,massa final,mussarela,cheddar
+vinho tinto,cheddar,bacon,milho,azeitona,alho,calabresa,massa final,mussarela,gorgonzola
+refrigerante,sabor catupiry,calabresa,pepperoni,bacon,NA,NA,massa tradicional,cheddar,mussarela
+cerveja,cream cheese,cebola,alho-poró,carne seca,tomate,azeite de oliva,massa tradicional,gorgonzola,parmesão
+vinho tinto,borda tradicional,cogumelos,tomate,pimentão,brócolis,NA,massa final,provolone,gorgonzola
+cerveja,borda tradicional,pimentão,pepperoni,cebola caramelizada,alho,azeitona,massa final,provolone,parmesão
+refrigerante,cheddar,alho,cebola,frango,presunto,salsinha,massa grossa,cheddar,catupiry
+refrigerante,borda tradicional,azeite de oliva,bacon,frango,milho,NA,massa final,mussarela,provolone
+limonada,borda tradicional,calabresa,tomate,cebola,azeitona,alho,massa tradicional,catupiry,cheddar
+limonada,cream cheese,pepperoni,azeite de oliva,tomate,cebola,queijo coalho grelhado,massa tradicional,provolone,mussarela
+refrigerante,cheddar,presunto,bacon,linguiça,alcaparra,ovo,massa tradicional,catupiry,mussarela
+cerveja,sabor catupiry,grão de bico,cebola,espinafre,linguiça calabresa defumada,pimentão assado,massa tradicional,mussarela,cheddar
+vinho tinto,sabor catupiry,pepperoni,abacaxi,tomate,alho,azeitona,massa tradicional,mussarela,provolone
+suco de laranja,cheddar,camarão,queijo de cabra,presunto,orégano,NA,massa tradicional,catupiry,parmesão
+cerveja,borda tradicional,brócolis,bacon,ovo,tomate,ervilha,massa tradicional,mussarela,parmesão
+cerveja,borda tradicional,alho,tomate,alho-poró,cebola,alcaparra,massa integral,queijo brie,mussarela
+refrigerante,sabor catupiry,carne seca,cogumelos,bacon,tomate seco,frango,massa final,gorgonzola,mussarela
+vinho tinto,sabor catupiry,pepperoni,tomate,alcaparra,bacon,frango,massa final,mussarela,parmesão
+refrigerante,cream cheese,bacon,queijo gouda,ovo,cebola,pimenta calabresa,massa grossa,mussarela,queijo brie
+suco de laranja,sabor catupiry,azeitona,bacon,frango,picles,alho,massa tradicional,cheddar,catupiry
+cerveja,cream cheese,azeite de oliva,pimentão,tomate,camarão,rúcula,massa final,gorgonzola,provolone
+refrigerante,sabor catupiry,bacon,alho,linguiça,calabresa,queijo cheddar,massa tradicional,mussarela,catupiry
+refrigerante,borda tradicional,cebola,presunto,calabresa,carne seca,ovo,massa tradicional,mussarela,NA
+suco de abacaxi,cheddar,carne seca,cebola,bacon,linguiça,salsinha,massa tradicional,mussarela,NA
+suco de laranja,borda tradicional,bacon,azeite de oliva,tomate,pepperoni,orégano,massa tradicional,provolone,mussarela
+cerveja,sabor catupiry,brócolis,alho,cogumelos,tomate,milho,massa final,mussarela,catupiry
+cerveja,sabor catupiry,cogumelos,tomate,azeitona,pepperoni,alcaparra,massa tradicional,parmesão,mussarela
+cerveja,sabor catupiry,frango,calabresa,tomate,palmito,NA,massa tradicional,cheddar,catupiry
+água com gás,sabor catupiry,cogumelos,espinafre,azeite de oliva,NA,NA,massa final,mussarela,queijo feta
+cerveja,cream cheese,cebola,tomate,calabresa,pepperoni,bacon,massa tradicional,gorgonzola,mussarela
+cerveja,borda tradicional,azeitona,bacon,calabresa,tomate,milho,massa tradicional,mussarela,gorgonzola
+água com gás,cheddar,linguiça calabresa defumada,cebola,linguiça,calabresa,ovo,massa tradicional,gorgonzola,provolone
+refrigerante,cream cheese,pimentão,carne seca,cogumelos,pimenta calabresa,orégano,massa final,mussarela,provolone
+cerveja,sabor catupiry,tomate,alho-poró,cogumelos,azeitona,NA,massa tradicional,mussarela,gorgonzola
+cerveja,borda tradicional,tomate,pimentão,atum,cogumelos,cebolinha,massa final,mussarela,gorgonzola
+NA,sabor catupiry,pepperoni,cogumelos,tomate,cebola,alcaparra,massa tradicional,mussarela,queijo brie
+refrigerante,cream cheese,cebola,alho,bacon,milho,calabresa,massa tradicional,mussarela,parmesão
+suco de laranja,cheddar,pepperoni,cebola,tomate,azeitona,bacon,massa tradicional,mussarela,parmesão
+refrigerante,sabor catupiry,presunto,frango,cebola,pimentão,bacon,massa tradicional,catupiry,cheddar
+suco de maracujá,borda tradicional,pepperoni,cogumelos,azeite de oliva,tomate,NA,massa final,mussarela,parmesão
+refrigerante,sabor catupiry,alho,cogumelos,tomate seco,pepperoni,azeitona,massa tradicional,mussarela,parmesão
+cerveja,sabor catupiry,bacon,cogumelos,brócolis,azeitona,alho,massa final,provolone,mussarela
+cerveja,borda tradicional,bacon,milho,ovo,queijo cheddar,pepperoni,massa final,provolone,ricota
+limonada,borda tradicional,pepperoni,azeitona,bacon,NA,NA,massa grossa,queijo coalho,parmesão
+refrigerante,sabor catupiry,tomate,azeitona,beterraba,brócolis,bacon,massa tradicional,mussarela,provolone
+chá gelado,borda tradicional,carne moída,cebola,cogumelos,bacon,tomate,massa grossa,gorgonzola,cheddar
+chá gelado,borda tradicional,pepperoni,orégano,calabresa,cebola,cogumelos,massa tradicional,mussarela,parmesão
+chá gelado,sabor catupiry,cogumelos,brócolis,palmito,bacon,milho,massa grossa,NA,catupiry
+refrigerante,sabor catupiry,cogumelos,bacon,nozes,cebola caramelizada,NA,massa tradicional,parmesão,cheddar
+limonada,borda tradicional,pepperoni,cebolinha,pimenta calabresa,tomate,alcaparra,massa final,mussarela,gorgonzola
+água com gás,borda tradicional,tomate,alho,NA,NA,NA,massa tradicional,NA,NA
+refrigerante,borda tradicional,tomate,pepperoni,calabresa,orégano,NA,massa final,provolone,gorgonzola
+suco de laranja,cream cheese,frango,ovo,azeitona,bacon,carne moída,massa tradicional,mussarela,catupiry
+vinho tinto,borda tradicional,tomate,azeitona,pepperoni,brócolis,camarão,massa tradicional,mussarela,provolone
+suco de abacaxi,cream cheese,pepperoni,alho-poró,carne seca,brócolis,palmito,massa tradicional,provolone,mussarela
+refrigerante,borda tradicional,carne seca,alho,brócolis,tomate seco,pimenta biquinho,massa final,catupiry,parmesão
+refrigerante,cream cheese,calabresa,queijo cheddar,orégano,NA,NA,massa tradicional,mussarela,NA
+limonada,borda tradicional,carne seca,cogumelos,frango,bacon,pepperoni,massa tradicional,mussarela,parmesão
+limonada,cream cheese,frango,pepperoni,cebolinha,pimentão,alho-poró,massa tradicional,cheddar,parmesão
+suco de laranja,borda tradicional,frango,calabresa,bacon,carne moída,presunto,massa final,mussarela,parmesão
+refrigerante,borda tradicional,calabresa,frango,bacon,camarão,atum,massa tradicional,NA,NA
+água com gás,sabor catupiry,presunto,tomate,azeitona,cebola caramelizada,queijo cheddar,massa tradicional,mussarela,provolone
+suco de laranja,sabor catupiry,bacon,frango,ovo,calabresa,NA,massa final,mussarela,NA
+cerveja,borda tradicional,tomate,pepperoni,cebolinha,cebola caramelizada,azeitona,massa tradicional,mussarela,provolone
+suco de uva,cheddar,pepperoni,calabresa,cogumelos,azeitona,orégano,massa tradicional,parmesão,provolone
+refrigerante,sabor catupiry,frango,azeitona,tomate,cebola,NA,massa tradicional,mussarela,catupiry
+suco de laranja,borda tradicional,calabresa,cebola,linguiça calabresa defumada,ovo,queijo cheddar,massa tradicional,mussarela,parmesão
+refrigerante,cream cheese,bacon,pepperoni,pimenta biquinho,tomate seco,linguiça calabresa defumada,massa tradicional,mussarela,NA
+água com gás,borda tradicional,pepperoni,milho,bacon,orégano,pimenta calabresa,massa final,mussarela,parmesão
+suco de abacaxi,cheddar,alcaparra,frango,bacon,tomate seco,presunto,massa final,queijo coalho,cheddar
+vinho tinto,borda tradicional,pepperoni,NA,NA,NA,NA,massa final,NA,NA
+refrigerante,borda tradicional,cebola,tomate,azeitona,bacon,calabresa,massa tradicional,NA,NA
+suco de abacaxi,borda tradicional,tomate,azeite de oliva,calabresa,calabresa,orégano,massa tradicional,mussarela,provolone
+refrigerante,borda tradicional,tomate,cebola,calabresa,azeitona,orégano,massa tradicional,mussarela,parmesão
+água com gás,cheddar,bacon,frango,pimenta biquinho,cebolinha,cebola caramelizada,massa tradicional,queijo brie,gorgonzola
+suco de laranja,sabor catupiry,cebola,cogumelos,tomate,azeitona,brócolis,massa tradicional,gorgonzola,cheddar
+chá gelado,cheddar,tomate,cogumelos,presunto,frango,carne seca,massa tradicional,cheddar,catupiry
+suco de uva,cream cheese,tomate,pepperoni,azeitona,orégano,cebola caramelizada,massa tradicional,mussarela,parmesão
+vinho tinto,borda tradicional,queijo de cabra,queijo roquefort,tofu,calabresa,cebola caramelizada,massa integral,gorgonzola,queijo coalho
+suco de maracujá,cheddar,tomate,cebola,bacon,carne seca,linguiça calabresa defumada,massa grossa,catupiry,mussarela
+chá gelado,cream cheese,pepperoni,bacon,cebola caramelizada,cogumelos,espinafre,massa grossa,gorgonzola,parmesão
+refrigerante,cream cheese,presunto,palmito,bacon,milho,pimentão assado,massa grossa,mussarela,parmesão
+refrigerante,borda tradicional,calabresa,bacon,cebolinha,pimentão,cebola,massa final,mussarela,mussarela
+refrigerante,borda tradicional,alho,linguiça calabresa defumada,NA,palmito,NA,massa tradicional,cheddar,mussarela
+água com gás,borda tradicional,rúcula,nozes,azeitona,NA,NA,massa final,ricota,NA
+suco de laranja,sabor catupiry,pepperoni,frango,rúcula,linguiça calabresa defumada,bacon,massa final,gorgonzola,provolone
+cerveja,borda tradicional,pepperoni,cebola,rúcula,azeitona,orégano,massa final,mussarela,parmesão
+chá gelado,borda tradicional,brócolis,cogumelos,alho,azeitona,NA,massa final,queijo brie,parmesão
+refrigerante,borda tradicional,calabresa,brócolis,frango,tomate,pepperoni,massa final,mussarela,cheddar
+suco de abacaxi,sabor catupiry,cogumelos,azeitona,orégano,pepperoni,cebola,massa tradicional,parmesão,cheddar
+cerveja,sabor catupiry,azeitona,tomate,pimentão,bacon,calabresa,massa tradicional,cheddar,parmesão
+refrigerante,borda tradicional,frango,carne seca,presunto,azeitona,alho-poró,massa grossa,mussarela,provolone
+limonada,borda tradicional,rúcula,cogumelos,palmito,presunto,azeitona,massa tradicional,mussarela,NA
+refrigerante,sabor catupiry,azeitona,alho,calabresa,pimenta calabresa,cebola,massa tradicional,mussarela,cheddar
+refrigerante,borda tradicional,cogumelos,milho,bacon,azeitona,NA,massa tradicional,mussarela,gorgonzola
+NA,borda tradicional,cebola,pepperoni,orégano,NA,NA,massa tradicional,mussarela,gorgonzola
+cerveja,borda tradicional,pepperoni,alcaparra,azeite de oliva,brócolis,bacon,massa final,gorgonzola,queijo brie
+chá gelado,sabor catupiry,alho,pepperoni,tomate,azeitona,orégano,massa tradicional,mussarela,gorgonzola
+suco de maracujá,borda tradicional,pepperoni,bacon,frango,orégano,linguiça,massa final,mussarela,queijo brie
+chá gelado,cream cheese,calabresa,bacon,palmito,queijo gouda,cebola,massa tradicional,mussarela,catupiry
+vinho tinto,sabor catupiry,calabresa,presunto,tomate,cebola,rúcula,massa final,mussarela,catupiry
+vinho tinto,sabor catupiry,pepperoni,bacon,orégano,NA,NA,massa tradicional,mussarela,catupiry
+vinho tinto,borda tradicional,queijo gouda,azeitona,tomate seco,orégano,azeite de oliva,massa tradicional,gorgonzola,mussarela
+vinho tinto,sabor catupiry,bacon,queijo cheddar,queijo coalho grelhado,cogumelos,pepperoni,massa final,mussarela,gorgonzola
+refrigerante,sabor catupiry,pimentão,cebola,carne seca,orégano,NA,massa final,mussarela,cheddar
+suco de laranja,cheddar,azeite de oliva,abobrinha,cebola,alho,presunto,massa final,cheddar,provolone
+vinho tinto,sabor catupiry,cogumelos,picles,azeitona,alho,brócolis,massa tradicional,queijo coalho,mussarela
+chá gelado,sabor catupiry,rúcula,palmito,alcaparra,pimentão,cogumelos,massa integral,mussarela,provolone
+refrigerante,borda tradicional,pepperoni,tomate,NA,NA,NA,massa tradicional,mussarela,NA
+chá gelado,sabor catupiry,calabresa,bacon,tomate seco,NA,pimenta biquinho,massa grossa,mussarela,mussarela
+refrigerante,cream cheese,pepperoni,azeitona,berinjela,bacon,cebola caramelizada,massa tradicional,gorgonzola,provolone
+suco de laranja,cheddar,carne seca,presunto,bacon,calabresa,abacaxi,massa final,mussarela,cheddar
+chá gelado,sabor catupiry,carne seca,cebola,pepperoni,pimentão,tomate,massa tradicional,mussarela,cheddar
+cerveja,borda tradicional,tomate,azeitona,cogumelos,cebola,presunto,massa final,parmesão,mussarela
+suco de laranja,sabor catupiry,linguiça calabresa defumada,frango,milho,espinafre,bacon,massa tradicional,mussarela,cheddar
+limonada,cream cheese,bacon,calabresa,camarão,ovo,presunto,massa final,parmesão,catupiry
+refrigerante,sabor catupiry,pepperoni,frango,calabresa,queijo coalho grelhado,linguiça calabresa defumada,massa tradicional,mussarela,gorgonzola
+suco de laranja,sabor catupiry,presunto,calabresa,tomate,orégano,azeitona,massa final,mussarela,catupiry
+suco de laranja,borda tradicional,cogumelos,palmito,cebola caramelizada,palmito,tomate,massa grossa,provolone,parmesão
+água com gás,sabor catupiry,cogumelos,bacon,calabresa,alho,cebola caramelizada,massa tradicional,mussarela,gorgonzola
+suco de uva,sabor catupiry,azeite de oliva,alho,bacon,NA,NA,massa grossa,mussarela,NA
+cerveja,sabor catupiry,cebola,tomate,azeitona,pimentão,calabresa,massa tradicional,catupiry,gorgonzola
+vinho tinto,borda tradicional,tomate,azeitona,azeite de oliva,salsinha,calabresa,massa final,mussarela,parmesão
+refrigerante,borda tradicional,queijo gouda,calabresa,pimenta calabresa,calabresa,queijo gouda,massa final,mussarela,gorgonzola
+suco de maracujá,borda tradicional,cogumelos,pimentão,azeitona,frango,alho,massa tradicional,catupiry,cheddar
+NA,sabor catupiry,milho,carne seca,cogumelos,pepperoni,orégano,massa tradicional,provolone,parmesão
+suco de laranja,borda tradicional,bacon,ovo,linguiça calabresa defumada,milho,ervilha,massa grossa,mussarela,provolone
+água com gás,borda tradicional,linguiça,cebola,cogumelos,rúcula,tomate seco,massa final,gorgonzola,queijo brie
+cerveja,borda tradicional,tomate,pimenta biquinho,calabresa,bacon,cebola caramelizada,massa final,parmesão,gorgonzola
+suco de maracujá,borda tradicional,tomate,pimentão assado,cogumelos,cogumelos,azeitona,massa final,mussarela,mussarela
+cerveja,borda tradicional,pepperoni,alho,azeitona,orégano,cebola,massa final,mussarela,parmesão
+água com gás,borda tradicional,palmito,NA,NA,NA,NA,massa final,mussarela,parmesão
+suco de laranja,borda tradicional,calabresa,mel,NA,NA,NA,massa tradicional,mussarela,gorgonzola
+vinho tinto,borda tradicional,carne seca,cogumelos,pepperoni,espinafre,azeitona,massa tradicional,mussarela,queijo coalho
+refrigerante,cream cheese,pepperoni,tomate seco,alho,azeite de oliva,carne seca,massa tradicional,gorgonzola,queijo coalho
+refrigerante,sabor catupiry,presunto,calabresa,tomate seco,palmito,cebola,massa tradicional,mussarela,catupiry
+cerveja,sabor catupiry,pimentão,alho,anchova,alcaparra,azeitona,massa integral,provolone,gorgonzola
+refrigerante,borda tradicional,cebola,bacon,calabresa,tomate,cebola,massa final,queijo brie,catupiry
+refrigerante,borda tradicional,tomate,alho,frango,bacon,camarão,massa final,cheddar,parmesão
+suco de abacaxi,sabor catupiry,cogumelos,brócolis,bacon,tomate seco,alho-poró,massa tradicional,mussarela,catupiry
+cerveja,borda tradicional,cebola,tomate,cebola,cogumelos,bacon,massa tradicional,gorgonzola,mussarela
+suco de laranja,sabor catupiry,calabresa,bacon,cebola,palmito,pepperoni,massa tradicional,mussarela,catupiry
+água com gás,sabor catupiry,presunto,cogumelos,cebola,NA,NA,massa final,mussarela,NA
+suco de laranja,cream cheese,cebola,brócolis,palmito,alho-poró,carne seca,massa tradicional,mussarela,gorgonzola
+vinho tinto,cheddar,bacon,espinafre,cebola,cogumelos,brócolis,massa integral,cheddar,catupiry
+refrigerante,borda tradicional,alho,azeitona,brócolis,tomate seco,NA,massa tradicional,mussarela,parmesão
+refrigerante,sabor catupiry,frango,azeitona,cebola,milho,NA,massa tradicional,mussarela,catupiry
+refrigerante,sabor catupiry,tomate,NA,cogumelos,rúcula,salsinha,massa grossa,queijo brie,provolone
+suco de laranja,sabor catupiry,cebola,carne moída,azeite de oliva,azeitona,tomate,massa tradicional,mussarela,catupiry
+limonada,cheddar,alho,azeitona,tomate,cebola,cogumelos,massa integral,NA,NA
+água com gás,sabor catupiry,tomate seco,cebola,brócolis,cogumelos,pepperoni,massa tradicional,mussarela,gorgonzola
+refrigerante,sabor catupiry,tomate,frango,cebola,pepperoni,palmito,massa tradicional,mussarela,catupiry
+chá gelado,borda tradicional,abobrinha,cogumelos,cebola,tomate seco,atum,massa final,gorgonzola,parmesão
+refrigerante,borda tradicional,pepperoni,cebola,bacon,palmito,tomate seco,massa tradicional,gorgonzola,parmesão
+água com gás,borda tradicional,azeitona,calabresa,bacon,pimenta calabresa,cebola,massa final,mussarela,gorgonzola
+refrigerante,sabor catupiry,calabresa,cebola,ovo,NA,NA,massa tradicional,mussarela,gorgonzola
+suco de maracujá,sabor catupiry,cogumelos,bacon,nozes,alho-poró,brócolis,massa final,gorgonzola,provolone
+refrigerante,borda tradicional,tomate,pimentão assado,azeitona,queijo cheddar,pepperoni,massa tradicional,mussarela,NA
+vinho tinto,borda tradicional,tomate,NA,NA,NA,NA,massa final,gorgonzola,provolone
+refrigerante,sabor catupiry,brócolis,linguiça calabresa defumada,rúcula,bacon,frango,massa final,mussarela,gorgonzola
+refrigerante,sabor catupiry,tomate,azeitona,palmito,bacon,calabresa,massa final,provolone,mussarela
+refrigerante,cream cheese,carne moída,tomate,pimentão,cogumelos,linguiça calabresa defumada,massa final,mussarela,parmesão
+água com gás,cream cheese,pepperoni,cebola,alho,tomate,azeite de oliva,massa tradicional,parmesão,cheddar
+refrigerante,sabor catupiry,calabresa,cebola,tomate,milho,pimenta calabresa,massa tradicional,catupiry,NA
+vinho tinto,borda tradicional,presunto,azeitona,calabresa,orégano,carne seca,massa tradicional,mussarela,NA
+suco de maracujá,sabor catupiry,pimentão,orégano,milho,calabresa,cebolinha,massa tradicional,mussarela,parmesão
+vinho tinto,cheddar,cogumelos,azeite de oliva,orégano,queijo roquefort,queijo gouda,massa final,mussarela,provolone
+refrigerante,sabor catupiry,pepperoni,tomate,rúcula,carne seca,cebola,massa tradicional,mussarela,parmesão
+refrigerante,sabor catupiry,atum,cebola,azeitona,NA,NA,massa final,gorgonzola,mussarela
+refrigerante,borda tradicional,bacon,azeitona,calabresa,pimenta calabresa,alho,massa tradicional,catupiry,mussarela
+suco de maracujá,sabor catupiry,tomate,anchova,alcaparra,azeite de oliva,pepperoni,massa tradicional,mussarela,gorgonzola
+refrigerante,sabor catupiry,bacon,anchova em conserva,azeite de oliva,cogumelos,queijo de cabra,massa tradicional,mussarela,cheddar
+refrigerante,sabor catupiry,calabresa,alho,frango,milho,azeite de oliva,massa tradicional,mussarela,parmesão
+refrigerante,borda tradicional,pepperoni,bacon,cebola,NA,NA,massa tradicional,mussarela,NA
+cerveja,borda tradicional,pepperoni,queijo gouda,tomate,azeitona,pimenta biquinho,massa tradicional,parmesão,gorgonzola
+água com gás,borda tradicional,tomate,cebola,pepperoni,calabresa,pimenta calabresa,massa final,mussarela,parmesão
+cerveja,borda tradicional,palmito,tomate,milho,bacon,frango,massa final,mussarela,parmesão
+refrigerante,cream cheese,azeitona,presunto,bacon,calabresa,cebola,massa grossa,mussarela,gorgonzola
+refrigerante,sabor catupiry,pepperoni,picles,bacon,frango,carne seca,massa tradicional,parmesão,queijo brie
+vinho tinto,borda tradicional,tomate,calabresa,cebola,azeitona,azeite de oliva,massa tradicional,mussarela,queijo feta
+suco de maracujá,sabor catupiry,frango,orégano,tomate,bacon,calabresa,massa tradicional,mussarela,provolone
+chá gelado,borda tradicional,frango,palmito,orégano,NA,NA,massa grossa,mussarela,NA
+vinho tinto,borda tradicional,tomate,orégano,frango,palmito,milho,massa final,mussarela,queijo coalho
+suco de maracujá,borda tradicional,tomate seco,cebola caramelizada,calabresa,orégano,brócolis,massa final,mussarela,parmesão
+suco de uva,cheddar,bacon,frango,cebola,linguiça,ovo,massa tradicional,mussarela,catupiry
+suco de abacaxi,borda tradicional,alho,atum,tomate,azeite de oliva,bacon,massa tradicional,mussarela,parmesão
+suco de abacaxi,sabor catupiry,presunto,pepperoni,cebola,azeitona,tomate,massa tradicional,mussarela,cheddar
+suco de laranja,cheddar,tomate,brócolis,pimenta calabresa,alho,bacon,massa final,mussarela,parmesão
+vinho tinto,borda tradicional,azeite de oliva,tomate,queijo de cabra,rúcula,NA,massa tradicional,mussarela,NA
+refrigerante,sabor catupiry,pepperoni,azeitona,pimentão,alho-poró,alho,massa tradicional,mussarela,NA
+suco de laranja,borda tradicional,presunto,cogumelos,ovo,cebola,ervilha,massa tradicional,mussarela,catupiry
+vinho tinto,borda tradicional,rúcula,pepperoni,azeitona,azeite de oliva,alho-poró,massa tradicional,queijo brie,mussarela
+cerveja,cream cheese,azeitona,calabresa,cebola,tomate,cogumelos,massa final,mussarela,provolone
+limonada,borda tradicional,tomate,anchova em conserva,atum,orégano,azeitona,massa tradicional,mussarela,provolone
+chá gelado,sabor catupiry,pepperoni,cebola,ovo,NA,alho-poró,massa tradicional,mussarela,parmesão
+suco de maracujá,borda tradicional,alho,abacaxi,frango,pimenta calabresa,pepperoni,massa integral,mussarela,provolone
+refrigerante,borda tradicional,pepperoni,linguiça calabresa defumada,frango,bacon,presunto,massa tradicional,mussarela,catupiry
+cerveja,borda tradicional,alho,anchova,azeite de oliva,pimentão,tomate,massa tradicional,provolone,provolone
+água com gás,sabor catupiry,frango,presunto,brócolis,pimenta calabresa,linguiça calabresa defumada,massa final,mussarela,catupiry
+suco de laranja,borda tradicional,cogumelos,azeite de oliva,abobrinha,cebola,palmito,massa integral,mussarela,provolone
+limonada,cheddar,frango,orégano,queijo cheddar,bacon,NA,massa final,catupiry,queijo brie
+suco de laranja,sabor catupiry,cebola,tomate,orégano,carne seca,queijo coalho grelhado,massa final,queijo brie,NA
+limonada,borda tradicional,amêndoas,alho-poró,cebola caramelizada,rúcula,carne seca,massa final,NA,NA
+refrigerante,sabor catupiry,pepperoni,cebola,milho,bacon,orégano,massa grossa,parmesão,gorgonzola
+suco de maracujá,sabor catupiry,pepperoni,tomate,azeitona,bacon,queijo cheddar,massa tradicional,mussarela,cheddar
+refrigerante,sabor catupiry,cogumelos,tomate,orégano,pimenta calabresa,azeitona,massa final,gorgonzola,parmesão
+cerveja,cream cheese,bacon,cebola caramelizada,linguiça,ovo,carne seca,massa final,queijo coalho,queijo brie
+limonada,sabor catupiry,cebola,alho,picles,calabresa,tomate seco,massa final,gorgonzola,catupiry
+refrigerante,cream cheese,tomate,cogumelos,presunto,pimentão,azeitona,massa grossa,queijo brie,parmesão
+chá gelado,sabor catupiry,cebola,frango,bacon,azeitona,cogumelos,massa tradicional,cheddar,mussarela
+refrigerante,borda tradicional,abobrinha,azeitona,tomate,cebola,pepperoni,massa final,mussarela,provolone
+refrigerante,sabor catupiry,atum,camarão,queijo cheddar,tomate,pimentão,massa tradicional,mussarela,parmesão
+cerveja,borda tradicional,presunto,calabresa,bacon,NA,NA,massa tradicional,mussarela,queijo coalho
+vinho tinto,borda tradicional,frango,tomate,orégano,milho,rúcula,massa tradicional,mussarela,queijo coalho
+refrigerante,sabor catupiry,queijo coalho grelhado,bacon,orégano,presunto,azeitona,massa tradicional,mussarela,catupiry
+refrigerante,cheddar,cogumelos,brócolis,milho,palmito,orégano,massa grossa,catupiry,parmesão
+refrigerante,sabor catupiry,pepperoni,palmito,tomate,cogumelos,azeitona,massa tradicional,mussarela,parmesão
+refrigerante,borda tradicional,abobrinha,orégano,tomate seco,cebolinha,NA,massa tradicional,catupiry,gorgonzola
+chá gelado,sabor catupiry,castanhas,tomate,frango,espinafre,orégano,massa tradicional,queijo coalho,catupiry
+cerveja,sabor catupiry,pepperoni,bacon,picles,queijo coalho grelhado,NA,massa tradicional,provolone,mussarela
+cerveja,borda tradicional,pepperoni,cogumelos,cebola caramelizada,cebolinha,NA,massa tradicional,mussarela,NA
+vinho tinto,cream cheese,bacon,rúcula,alho,brócolis,palmito,massa grossa,mussarela,gorgonzola
+refrigerante,sabor catupiry,frango,milho,bacon,NA,NA,massa final,mussarela,NA
+suco de uva,sabor catupiry,azeitona,alho,tomate seco,rúcula,brócolis,massa grossa,mussarela,parmesão
+suco de uva,cream cheese,alho,orégano,NA,NA,NA,massa final,queijo brie,mussarela
+cerveja,borda tradicional,tomate,orégano,pimentão,calabresa,cebola,massa tradicional,mussarela,parmesão
+refrigerante,borda tradicional,rúcula,calabresa,cereja,amêndoas,alcaparra,massa tradicional,parmesão,provolone
+suco de maracujá,cream cheese,pepperoni,cogumelos,bacon,calabresa,queijo cheddar,massa final,gorgonzola,cheddar
+refrigerante,borda tradicional,pepperoni,tomate,azeitona,palmito,bacon,massa final,mussarela,parmesão
+chá gelado,cream cheese,cogumelos,palmito,ovo,milho,ervilha,massa integral,mussarela,parmesão
+refrigerante,cream cheese,presunto,calabresa,presunto,bacon,frango,massa final,mussarela,provolone
+refrigerante,borda tradicional,tomate,calabresa,azeitona,bacon,cebola,massa tradicional,mussarela,parmesão
+refrigerante,sabor catupiry,palmito,bacon,frango,orégano,pepperoni,massa final,mussarela,catupiry
+cerveja,borda tradicional,azeite de oliva,brócolis,cogumelos,pimenta calabresa,pepperoni,massa tradicional,mussarela,provolone
+chá gelado,borda tradicional,cebola,calabresa,tomate,NA,NA,massa tradicional,mussarela,parmesão
+suco de abacaxi,cream cheese,orégano,palmito,pimentão,azeitona,camarão,massa tradicional,catupiry,parmesão
+vinho tinto,sabor catupiry,bacon,frango,orégano,azeitona,linguiça calabresa defumada,massa tradicional,mussarela,parmesão
+refrigerante,cream cheese,pepperoni,cogumelos,azeitona,rúcula,queijo roquefort,massa final,mussarela,gorgonzola
+cerveja,cheddar,carne seca,azeitona,pimenta biquinho,bacon,orégano,massa final,mussarela,catupiry
+vinho tinto,borda tradicional,berinjela,tomate,abobrinha,alho,orégano,massa tradicional,parmesão,mussarela
+água com gás,borda tradicional,cogumelos,tomate,azeitona,mel,presunto,massa final,queijo brie,gorgonzola
+refrigerante,sabor catupiry,pepperoni,alho,picles,azeitona,mel,massa tradicional,provolone,cheddar
+vinho tinto,sabor catupiry,pepperoni,cogumelos,alho,cebola,rúcula,massa final,parmesão,catupiry
+NA,cream cheese,tomate,cebola,pepperoni,bacon,calabresa,massa tradicional,mussarela,cheddar
+limonada,sabor catupiry,bacon,frango,orégano,NA,NA,massa final,queijo brie,NA
+chá gelado,sabor catupiry,orégano,pepperoni,tomate,bacon,salsinha,massa tradicional,mussarela,NA
+refrigerante,borda tradicional,calabresa,bacon,azeite de oliva,tomate,cebola,massa grossa,mussarela,parmesão
+cerveja,borda tradicional,bacon,calabresa,cebola,ovo,tomate,massa tradicional,mussarela,parmesão
+água com gás,borda tradicional,pepperoni,cogumelos,linguiça,bacon,picles,massa final,parmesão,cheddar
+suco de laranja,cream cheese,carne seca,cebola caramelizada,azeitona,orégano,bacon,massa final,mussarela,queijo coalho
+suco de uva,borda tradicional,cogumelos,alho-poró,cebolinha,orégano,azeitona,massa tradicional,mussarela,catupiry
+limonada,sabor catupiry,carne seca,calabresa,cebola caramelizada,presunto,presunto,massa final,mussarela,catupiry
+refrigerante,borda tradicional,alho,frango,tomate seco,NA,NA,massa grossa,mussarela,provolone
+vinho tinto,borda tradicional,tomate,orégano,palmito,alho,NA,massa final,mussarela,gorgonzola
+cerveja,cheddar,pepperoni,bacon,carne seca,linguiça calabresa defumada,orégano,massa final,mussarela,provolone
+refrigerante,borda tradicional,presunto,tomate,orégano,pimentão,azeitona,massa final,mussarela,catupiry
+refrigerante,borda tradicional,bacon,cogumelos,tomate,milho,frango,massa tradicional,mussarela,provolone
+suco de laranja,borda tradicional,presunto,frango,cebolinha,ovo,cebola,massa tradicional,mussarela,catupiry
+refrigerante,cream cheese,ovo,presunto,azeitona,cebola,palmito,massa tradicional,mussarela,parmesão
+refrigerante,sabor catupiry,cebolinha,cebola,NA,NA,azeitona,massa tradicional,mussarela,catupiry
+limonada,cream cheese,cebola caramelizada,tomate,frango,bacon,milho,massa tradicional,parmesão,mussarela
+refrigerante,borda tradicional,milho,pepperoni,tomate,bacon,calabresa,massa tradicional,catupiry,mussarela
+água com gás,sabor catupiry,pepperoni,tomate,azeitona,bacon,pimentão,massa tradicional,mussarela,parmesão
+vinho tinto,borda tradicional,carne seca,pepperoni,rúcula,tomate seco,alho-poró,massa integral,mussarela,parmesão
+refrigerante,borda tradicional,tomate,pepperoni,cebola,milho,carne seca,massa tradicional,mussarela,ricota
+suco de abacaxi,sabor catupiry,pepperoni,bacon,carne seca,NA,NA,massa grossa,mussarela,catupiry
+cerveja,borda tradicional,alho,azeitona,pimenta calabresa,carne moída,calabresa,massa final,parmesão,catupiry
+cerveja,borda tradicional,tomate,orégano,cebola,cogumelos,alho,massa final,gorgonzola,provolone
+refrigerante,borda tradicional,frango,bacon,NA,NA,NA,massa grossa,mussarela,gorgonzola
+refrigerante,sabor catupiry,carne seca,milho,orégano,bacon,azeitona,massa tradicional,catupiry,mussarela
+limonada,sabor catupiry,atum,cebolinha,tomate,camarão,orégano,massa tradicional,queijo coalho,gorgonzola
+cerveja,cheddar,bacon,alho,rúcula,cebola caramelizada,pimenta calabresa,massa final,provolone,ricota
+suco de maracujá,sabor catupiry,frango,bacon,cebola,tomate,linguiça calabresa defumada,massa tradicional,mussarela,catupiry
+refrigerante,sabor catupiry,azeite de oliva,palmito,pimenta calabresa,queijo coalho grelhado,azeitona,massa tradicional,mussarela,NA
+suco de laranja,cream cheese,cebola,tomate,milho,bacon,frango,massa final,queijo coalho,mussarela
+vinho tinto,sabor catupiry,azeitona,alho,anchova,presunto,cogumelos,massa final,cheddar,catupiry
+refrigerante,sabor catupiry,tomate,frango,bacon,calabresa,carne moída,massa final,mussarela,catupiry
+refrigerante,cheddar,frango,tomate,NA,NA,NA,massa tradicional,mussarela,catupiry
+suco de laranja,sabor catupiry,alho,camarão,cebola,rúcula,tomate,massa tradicional,catupiry,ricota
+água com gás,sabor catupiry,pepperoni,cebola,bacon,pimenta calabresa,azeitona,massa final,provolone,parmesão
+refrigerante,cream cheese,calabresa,frango,bacon,cebola,ovo,massa tradicional,mussarela,catupiry
+cerveja,cheddar,orégano,tomate,berinjela,cebola,bacon,massa tradicional,mussarela,provolone
+suco de maracujá,cream cheese,cebola,tomate,palmito,bacon,carne seca,massa tradicional,mussarela,gorgonzola
+refrigerante,cheddar,tomate,NA,azeitona,NA,NA,massa final,mussarela,provolone
+suco de laranja,borda tradicional,calabresa,cebola,azeitona,orégano,palmito,massa tradicional,mussarela,NA
+refrigerante,borda tradicional,bacon,milho,pepperoni,tomate,azeitona,massa tradicional,mussarela,parmesão
+refrigerante,sabor catupiry,bacon,ovo,tomate seco,cebola,pimentão,massa tradicional,mussarela,parmesão
+água com gás,cream cheese,linguiça calabresa defumada,carne seca,pepperoni,berinjela,bacon,massa integral,queijo coalho,queijo brie
+suco de laranja,sabor catupiry,tomate,tomate seco,espinafre,frango,bacon,massa final,mussarela,parmesão
+cerveja,borda tradicional,presunto,frango,tomate,queijo de cabra,bacon,massa final,mussarela,catupiry
+refrigerante,cream cheese,pepperoni,cogumelos,bacon,abacaxi,azeitona,massa tradicional,mussarela,gorgonzola
+água com gás,sabor catupiry,pepperoni,frango,cogumelos,brócolis,bacon,massa tradicional,parmesão,queijo brie
+NA,cheddar,brócolis,berinjela,alcaparra,berinjela,pimentão,massa tradicional,parmesão,gorgonzola
+água com gás,cream cheese,calabresa,queijo de cabra,cebola caramelizada,alho-poró,NA,massa tradicional,parmesão,cheddar
+cerveja,sabor catupiry,pepperoni,presunto,cebola,azeitona,brócolis,massa tradicional,mussarela,catupiry
+refrigerante,borda tradicional,azeitona,tomate,cebola,linguiça calabresa defumada,bacon,massa final,catupiry,mussarela
+suco de uva,borda tradicional,frango,cebola,alho,azeitona,milho,massa tradicional,parmesão,catupiry
+NA,borda tradicional,tomate,azeitona,rúcula,NA,NA,massa tradicional,mussarela,NA
+vinho tinto,borda tradicional,azeitona,palmito,bacon,cebola,tomate,massa final,provolone,gorgonzola
+suco de laranja,cheddar,presunto,pepperoni,cogumelos,tomate seco,carne moída,massa tradicional,cheddar,provolone
+refrigerante,sabor catupiry,calabresa,presunto,tomate,pimentão,ovo,massa tradicional,mussarela,queijo brie
+refrigerante,borda tradicional,presunto,tomate,bacon,ovo,pimentão assado,massa tradicional,mussarela,gorgonzola
+refrigerante,borda tradicional,alho,tomate,bacon,cebola,pimentão,massa tradicional,mussarela,parmesão
+cerveja,cream cheese,pepperoni,azeite de oliva,presunto,frango,azeitona,massa tradicional,parmesão,mussarela
+refrigerante,cream cheese,pepperoni,cebola caramelizada,cogumelos,azeitona,palmito,massa final,mussarela,parmesão
+refrigerante,borda tradicional,tomate,bacon,calabresa,palmito,frango,massa final,parmesão,parmesão
+suco de abacaxi,cream cheese,tomate,azeitona,cogumelos,alcaparra,pepperoni,massa integral,mussarela,ricota
+suco de uva,cheddar,frango,queijo cheddar,alho,bacon,pepperoni,massa tradicional,parmesão,provolone
+vinho tinto,borda tradicional,mel,abacate,pepperoni,uva passa,presunto,massa final,mussarela,parmesão
+cerveja,cream cheese,brócolis,alho,bacon,orégano,cebola,massa final,mussarela,catupiry
+vinho tinto,sabor catupiry,pepperoni,alho,carne seca,brócolis,bacon,massa tradicional,mussarela,gorgonzola
+limonada,borda tradicional,pepperoni,azeite de oliva,cogumelos,cebola,azeitona,massa tradicional,mussarela,parmesão
+cerveja,sabor catupiry,brócolis,cebola,alho,milho,bacon,massa grossa,catupiry,parmesão
+suco de abacaxi,sabor catupiry,pepperoni,rúcula,alho,tomate seco,carne seca,massa final,mussarela,queijo brie
+refrigerante,cream cheese,alho-poró,bacon,frango,calabresa,alho,massa tradicional,mussarela,cheddar
+chá gelado,borda tradicional,cebola,calabresa,orégano,alho-poró,salsinha,massa tradicional,mussarela,parmesão
+vinho tinto,borda tradicional,pepperoni,tomate,alho,orégano,NA,massa grossa,mussarela,gorgonzola
+cerveja,cheddar,tomate,cogumelos,calabresa,palmito,tomate seco,massa tradicional,mussarela,provolone
+suco de laranja,sabor catupiry,tomate,cebola,pimentão,calabresa,presunto,massa integral,mussarela,parmesão
+cerveja,borda tradicional,palmito,camarão,tomate,azeitona,bacon,massa tradicional,mussarela,queijo feta
+refrigerante,sabor catupiry,frango,alho,orégano,ovo,cebola caramelizada,massa tradicional,mussarela,queijo coalho
+suco de laranja,cheddar,calabresa,bacon,cebola,azeitona,mel,massa tradicional,mussarela,parmesão
+cerveja,cream cheese,pepperoni,calabresa,bacon,tomate,orégano,massa grossa,mussarela,cheddar
+refrigerante,cheddar,anchova,pepperoni,cogumelos,cebola,carne seca,massa grossa,mussarela,gorgonzola
+suco de abacaxi,borda tradicional,cogumelos,palmito,frango,tomate seco,brócolis,massa final,mussarela,queijo brie
+refrigerante,borda tradicional,cogumelos,cebola,pepperoni,azeitona,queijo gouda,massa final,mussarela,parmesão
+refrigerante,borda tradicional,ovo,camarão,pepperoni,bacon,rúcula,massa final,mussarela,parmesão
+NA,borda tradicional,bacon,frango,orégano,NA,NA,massa tradicional,mussarela,parmesão
+cerveja,sabor catupiry,linguiça calabresa defumada,cebola,azeitona,pimenta calabresa,ovo,massa tradicional,mussarela,catupiry
+refrigerante,sabor catupiry,pimentão,bacon,ovo,carne seca,cebola,massa grossa,mussarela,catupiry
+vinho tinto,borda tradicional,tomate,pepperoni,cebola,NA,NA,massa tradicional,mussarela,parmesão
+suco de abacaxi,cream cheese,rúcula,tomate,azeitona,cebola,carne moída,massa integral,mussarela,queijo coalho
+suco de maracujá,cheddar,milho,cebola,bacon,pepperoni,orégano,massa final,cheddar,provolone
+suco de abacaxi,cheddar,bacon,ovo,cebola,NA,NA,massa integral,mussarela,catupiry
+refrigerante,borda tradicional,calabresa,presunto,queijo cheddar,cebola,azeitona,massa tradicional,mussarela,cheddar
+água com gás,sabor catupiry,presunto,tomate,azeitona,bacon,anchova,massa grossa,mussarela,catupiry
+água com gás,cheddar,cogumelos,picles,pepperoni,bacon,abacaxi,massa tradicional,mussarela,queijo coalho
+refrigerante,sabor catupiry,pepperoni,calabresa,NA,NA,NA,massa grossa,mussarela,queijo coalho
+refrigerante,borda tradicional,calabresa,cebola,NA,NA,NA,massa tradicional,mussarela,NA
+suco de laranja,sabor catupiry,cebola,frango,alho,orégano,milho,massa tradicional,mussarela,catupiry
+chá gelado,borda tradicional,pepperoni,tomate,azeitona,azeite de oliva,orégano,massa final,mussarela,parmesão
+vinho tinto,borda tradicional,azeite de oliva,pepperoni,orégano,pimenta calabresa,azeitona,massa tradicional,mussarela,parmesão
+refrigerante,sabor catupiry,bacon,calabresa,pepperoni,frango,cebola caramelizada,massa tradicional,parmesão,mussarela
+limonada,cream cheese,cebola,alho,bacon,queijo coalho grelhado,linguiça calabresa defumada,massa final,parmesão,queijo coalho
+vinho tinto,borda tradicional,cebola,tomate,palmito,azeitona,queijo roquefort,massa tradicional,gorgonzola,gorgonzola
+refrigerante,cheddar,bacon,frango,tomate,cebola,carne seca,massa final,mussarela,catupiry
+suco de maracujá,sabor catupiry,pepperoni,pimentão,rúcula,bacon,queijo de cabra,massa tradicional,mussarela,provolone
+limonada,cheddar,cereja,berinjela,pepperoni,queijo cheddar,camarão,massa tradicional,mussarela,parmesão
+refrigerante,borda tradicional,tomate,calabresa,cebola,pimenta calabresa,alho,massa tradicional,mussarela,parmesão
+vinho tinto,borda tradicional,pepperoni,cebola,pimentão,brócolis,NA,massa tradicional,mussarela,gorgonzola
+refrigerante,cheddar,bacon,milho,azeitona,ovo,NA,massa tradicional,mussarela,NA
+refrigerante,sabor catupiry,frango,bacon,NA,NA,NA,massa tradicional,mussarela,catupiry
+refrigerante,sabor catupiry,calabresa,cebola,milho,brócolis,azeite de oliva,massa grossa,mussarela,parmesão
+suco de maracujá,borda tradicional,cebola,rúcula,tomate seco,NA,NA,massa final,mussarela,parmesão
+suco de laranja,borda tradicional,tomate,presunto,azeitona,cebola,calabresa,massa tradicional,mussarela,provolone
+suco de uva,borda tradicional,tomate,bacon,calabresa,azeitona,NA,massa tradicional,mussarela,provolone
+água com gás,borda tradicional,tomate,calabresa,cebola,NA,NA,massa tradicional,mussarela,NA
+suco de maracujá,cream cheese,tomate,pimentão,alho,bacon,carne seca,massa grossa,mussarela,parmesão
+cerveja,sabor catupiry,azeitona,alho,palmito,orégano,pimentão assado,massa tradicional,mussarela,provolone
+refrigerante,borda tradicional,frango,linguiça calabresa defumada,cebola,tomate,azeitona,massa tradicional,mussarela,catupiry
+vinho tinto,sabor catupiry,carne seca,pimentão assado,tomate,tomate seco,NA,massa tradicional,mussarela,parmesão
+cerveja,sabor catupiry,tomate,bacon,frango,orégano,milho,massa tradicional,mussarela,provolone
+refrigerante,borda tradicional,frango,milho,tomate,orégano,NA,massa tradicional,mussarela,catupiry
+refrigerante,borda tradicional,alho,cebola,NA,carne seca,NA,massa final,mussarela,gorgonzola
+vinho tinto,borda tradicional,cogumelos,alho-poró,queijo feta,NA,NA,massa tradicional,mussarela,parmesão
+vinho tinto,borda tradicional,tomate,alho,abobrinha,berinjela,azeite de oliva,massa final,mussarela,parmesão
+refrigerante,sabor catupiry,rúcula,queijo gouda,pimenta calabresa,cebola caramelizada,mel,massa tradicional,queijo brie,mussarela
+refrigerante,borda tradicional,calabresa,tomate,cebola,azeitona,NA,massa tradicional,mussarela,NA
+vinho tinto,sabor catupiry,pepperoni,NA,tomate seco,cogumelos,NA,massa final,mussarela,parmesão
+refrigerante,sabor catupiry,bacon,alho,cogumelos,tomate,queijo de cabra,massa grossa,gorgonzola,queijo brie
+refrigerante,borda tradicional,tomate seco,cebola caramelizada,pepperoni,orégano,bacon,massa final,gorgonzola,parmesão
+suco de abacaxi,cream cheese,frango,bacon,milho,queijo cheddar,azeitona,massa tradicional,provolone,mussarela
+refrigerante,sabor catupiry,pepperoni,alho-poró,cebolinha,orégano,pepperoni,massa tradicional,mussarela,catupiry
+suco de abacaxi,sabor catupiry,calabresa,tomate,azeitona,palmito,cebola,massa tradicional,mussarela,parmesão
+refrigerante,borda tradicional,cogumelos,tomate,carne seca,NA,NA,massa tradicional,mussarela,NA
+refrigerante,sabor catupiry,calabresa,bacon,cebola,NA,NA,massa tradicional,mussarela,NA
+refrigerante,borda tradicional,alho,milho,presunto,palmito,ervilha,massa tradicional,gorgonzola,mussarela
+cerveja,borda tradicional,pepperoni,alho,alcaparra,cebola,tomate,massa tradicional,mussarela,gorgonzola
+água com gás,borda tradicional,calabresa,tomate seco,azeite de oliva,rúcula,cogumelos,massa tradicional,provolone,gorgonzola
+água com gás,borda tradicional,frango,ovo,azeitona,tomate,milho,massa tradicional,NA,NA
+vinho tinto,borda tradicional,calabresa,NA,NA,NA,NA,massa final,mussarela,NA
+suco de abacaxi,sabor catupiry,bacon,presunto,orégano,NA,NA,massa tradicional,mussarela,catupiry
+refrigerante,sabor catupiry,pepperoni,cogumelos,orégano,cebola,tomate seco,massa tradicional,mussarela,queijo coalho
+refrigerante,sabor catupiry,pepperoni,calabresa,azeitona,camarão,ovo,massa final,mussarela,catupiry
+cerveja,sabor catupiry,azeitona,cogumelos,tomate,azeite de oliva,palmito,massa final,mussarela,parmesão
+vinho tinto,borda tradicional,orégano,bacon,pepperoni,NA,NA,massa tradicional,provolone,gorgonzola
+suco de maracujá,borda tradicional,tomate,bacon,alho,tomate seco,linguiça calabresa defumada,massa tradicional,catupiry,gorgonzola
+refrigerante,sabor catupiry,pepperoni,tomate seco,linguiça calabresa defumada,pimentão,cebola,massa grossa,mussarela,gorgonzola
+refrigerante,sabor catupiry,presunto,cebola,tomate,milho,calabresa,massa tradicional,mussarela,cheddar
+refrigerante,sabor catupiry,pepperoni,azeitona,alho,calabresa,pimenta calabresa,massa tradicional,mussarela,catupiry
+limonada,borda tradicional,presunto,frango,palmito,abacaxi,presunto,massa grossa,catupiry,catupiry
+refrigerante,sabor catupiry,tomate,abobrinha,pepperoni,orégano,frango,massa tradicional,mussarela,catupiry
+refrigerante,borda tradicional,alcaparra,atum,cebola,tomate,ervilha,massa final,mussarela,provolone
+refrigerante,sabor catupiry,presunto,abobrinha,linguiça,ovo,alho,massa tradicional,mussarela,catupiry
+cerveja,sabor catupiry,bacon,cebola,frango,orégano,tomate,massa tradicional,mussarela,parmesão
+refrigerante,sabor catupiry,calabresa,orégano,azeitona,bacon,tomate,massa tradicional,mussarela,ricota
+vinho tinto,borda tradicional,mel,cogumelos,cebola,NA,NA,massa tradicional,mussarela,gorgonzola
+refrigerante,cream cheese,frango,milho,bacon,presunto,calabresa,massa tradicional,mussarela,parmesão
+vinho tinto,borda tradicional,carne seca,cebola,azeite de oliva,pimenta calabresa,tomate seco,massa tradicional,mussarela,gorgonzola
+refrigerante,borda tradicional,pepperoni,azeitona,pimentão,cebola,tomate,massa tradicional,mussarela,parmesão
+refrigerante,sabor catupiry,tomate,azeitona,frango,milho,pepperoni,massa final,mussarela,provolone
+chá gelado,cream cheese,cebola caramelizada,tomate seco,azeitona,rúcula,alho,massa grossa,ricota,queijo coalho
+água com gás,sabor catupiry,tomate,frango,milho,bacon,orégano,massa tradicional,mussarela,catupiry
+refrigerante,sabor catupiry,tomate,cebola,bacon,pepperoni,orégano,massa grossa,mussarela,NA
+refrigerante,sabor catupiry,pepperoni,NA,NA,NA,NA,massa tradicional,provolone,mussarela
+chá gelado,cream cheese,tomate,bacon,orégano,alho-poró,abobrinha,massa tradicional,mussarela,NA
+cerveja,borda tradicional,cogumelos,pepperoni,cebola,rúcula,salsinha,massa tradicional,parmesão,mussarela
+refrigerante,borda tradicional,azeite de oliva,frango,palmito,bacon,alho,massa tradicional,mussarela,NA
+cerveja,cheddar,cebola,azeitona,atum,picles,ovo,massa tradicional,mussarela,gorgonzola
+suco de abacaxi,borda tradicional,cebola,calabresa,tomate,orégano,salsinha,massa final,mussarela,NA
+água com gás,sabor catupiry,tomate,pepperoni,bacon,queijo gouda,pimentão,massa tradicional,mussarela,provolone
+água com gás,borda tradicional,abobrinha,alho,NA,NA,NA,massa final,mussarela,parmesão
+vinho tinto,borda tradicional,presunto,cogumelos,tomate,pimentão,alho-poró,massa tradicional,mussarela,catupiry
+suco de laranja,borda tradicional,cogumelos,bacon,calabresa,palmito,presunto,massa final,mussarela,catupiry
+refrigerante,borda tradicional,tomate seco,alho,espinafre,NA,pepperoni,massa grossa,mussarela,parmesão
+refrigerante,cheddar,pepperoni,calabresa,bacon,frango,alho,massa grossa,mussarela,catupiry
+refrigerante,sabor catupiry,tomate,calabresa,orégano,alho-poró,azeite de oliva,massa tradicional,mussarela,catupiry
+água com gás,sabor catupiry,frango,milho,tomate,queijo cheddar,orégano,massa tradicional,catupiry,gorgonzola
+suco de uva,sabor catupiry,tomate,milho,azeite de oliva,orégano,pimentão assado,massa grossa,parmesão,provolone
+água com gás,borda tradicional,linguiça calabresa defumada,cebola caramelizada,pimenta biquinho,castanhas,NA,massa final,mussarela,parmesão
+água com gás,borda tradicional,cogumelos,azeite de oliva,pepperoni,anchova,azeitona,massa final,mussarela,gorgonzola
+refrigerante,sabor catupiry,calabresa,cebola,azeitona,bacon,alho-poró,massa grossa,mussarela,provolone
+limonada,sabor catupiry,atum,cebola,tomate seco,azeitona,NA,massa tradicional,mussarela,NA
+NA,sabor catupiry,presunto,tomate,azeitona,ovo,calabresa,massa grossa,mussarela,NA
+suco de laranja,borda tradicional,cebola,azeitona,pimenta calabresa,bacon,linguiça,massa final,mussarela,parmesão
+água com gás,borda tradicional,cebola,alho,bacon,queijo gouda,picles,massa grossa,mussarela,parmesão
+água com gás,sabor catupiry,pepperoni,bacon,NA,NA,NA,massa final,mussarela,catupiry
+refrigerante,borda tradicional,pepperoni,frango,tomate,azeitona,azeite de oliva,massa final,mussarela,catupiry
+suco de maracujá,sabor catupiry,calabresa,frango,bacon,tomate,milho,massa tradicional,mussarela,parmesão
+refrigerante,sabor catupiry,presunto,milho,cebola caramelizada,orégano,picles,massa tradicional,parmesão,mussarela
+refrigerante,borda tradicional,pepperoni,azeite de oliva,alcaparra,palmito,pepperoni,massa final,provolone,parmesão
+suco de uva,borda tradicional,frango,bacon,brócolis,mel,linguiça calabresa defumada,massa final,queijo coalho,mussarela
+cerveja,borda tradicional,pepperoni,cogumelos,tomate,NA,NA,massa tradicional,catupiry,mussarela
+suco de laranja,sabor catupiry,frango,calabresa,carne seca,orégano,NA,massa tradicional,cheddar,catupiry
+chá gelado,borda tradicional,tomate,cogumelos,rúcula,azeite de oliva,NA,massa final,mussarela,parmesão
+vinho tinto,cream cheese,pepperoni,azeitona,alho,orégano,NA,massa final,parmesão,mussarela
+refrigerante,sabor catupiry,tomate,calabresa,cebola,ovo,azeitona,massa tradicional,catupiry,mussarela
+refrigerante,sabor catupiry,cebola,bacon,linguiça calabresa defumada,frango,cogumelos,massa tradicional,mussarela,catupiry
+água com gás,borda tradicional,pepperoni,calabresa,tomate,cebola,azeite de oliva,massa final,mussarela,parmesão
+refrigerante,borda tradicional,pepperoni,tomate,NA,azeitona,NA,massa final,mussarela,provolone
+chá gelado,cheddar,pepperoni,carne seca,azeitona,calabresa,tomate,massa tradicional,mussarela,catupiry
+cerveja,borda tradicional,calabresa,bacon,carne seca,alcaparra,linguiça,massa tradicional,mussarela,provolone
+suco de maracujá,borda tradicional,anchova,alcaparra,tomate seco,salsinha,palmito,massa tradicional,gorgonzola,mussarela
+suco de uva,sabor catupiry,tomate,bacon,orégano,NA,NA,massa tradicional,mussarela,parmesão
+NA,borda tradicional,pimentão,tomate,pepperoni,tomate,NA,massa tradicional,catupiry,queijo coalho
+refrigerante,borda tradicional,cebola,tomate,calabresa,alho-poró,cebola caramelizada,massa tradicional,mussarela,mussarela
+cerveja,cream cheese,bacon,calabresa,carne seca,frango,camarão,massa final,cheddar,mussarela
+vinho tinto,borda tradicional,milho,bacon,azeite de oliva,NA,NA,massa final,mussarela,queijo coalho
+NA,cream cheese,abacaxi,tomate seco,cebola caramelizada,carne seca,NA,massa tradicional,queijo brie,gorgonzola
+suco de abacaxi,cheddar,alcaparra,cogumelos,tomate,alho,azeitona,massa grossa,queijo coalho,queijo brie
+cerveja,cream cheese,tomate,azeitona,bacon,linguiça calabresa defumada,azeite de oliva,massa final,mussarela,catupiry
+limonada,sabor catupiry,tomate seco,uva passa,cebola caramelizada,carne seca,alho-poró,massa tradicional,mussarela,NA
+cerveja,borda tradicional,cebola,pepperoni,alho,rúcula,azeitona,massa tradicional,gorgonzola,provolone
+suco de laranja,borda tradicional,anchova,alcaparra,cebola,presunto,azeite de oliva,massa grossa,parmesão,cheddar
+suco de laranja,borda tradicional,queijo coalho grelhado,carne seca,NA,NA,NA,massa grossa,cheddar,queijo coalho
+suco de laranja,sabor catupiry,presunto,frango,brócolis,bacon,azeitona,massa tradicional,mussarela,catupiry
+água com gás,borda tradicional,carne seca,tomate,pepperoni,azeitona,rúcula,massa final,mussarela,gorgonzola
+refrigerante,sabor catupiry,tomate,berinjela,rúcula,frango,azeitona,massa final,provolone,gorgonzola
+refrigerante,borda tradicional,pepperoni,NA,NA,NA,NA,massa tradicional,mussarela,parmesão
+água com gás,cheddar,alho,mel,cebola caramelizada,pepperoni,uva passa,massa tradicional,gorgonzola,catupiry
+refrigerante,sabor catupiry,alho,azeitona,NA,NA,NA,massa tradicional,mussarela,catupiry
+suco de uva,sabor catupiry,tomate,presunto,ovo,NA,NA,massa tradicional,mussarela,queijo brie
+refrigerante,cheddar,presunto,azeitona,ovo,tomate,azeite de oliva,massa tradicional,mussarela,provolone
+cerveja,sabor catupiry,abobrinha,berinjela,alcaparra,berinjela,brócolis,massa grossa,ricota,ricota
+refrigerante,borda tradicional,linguiça calabresa defumada,cebola,tomate,NA,NA,massa tradicional,mussarela,parmesão
+vinho tinto,borda tradicional,cogumelos,rúcula,tomate seco,camarão,pepperoni,massa final,parmesão,gorgonzola
+refrigerante,sabor catupiry,carne seca,bacon,tomate,cebola,azeitona,massa tradicional,mussarela,parmesão
+limonada,cheddar,linguiça calabresa defumada,brócolis,alho,cebola,bacon,massa final,cheddar,mussarela
+vinho tinto,borda tradicional,tomate,presunto,cogumelos,alho,calabresa,massa final,mussarela,parmesão
+cerveja,borda tradicional,tomate,pepperoni,alho,NA,NA,massa tradicional,mussarela,parmesão
+refrigerante,cream cheese,pepperoni,brócolis,azeitona,frango,bacon,massa tradicional,mussarela,gorgonzola
+água com gás,sabor catupiry,cogumelos,cebola,palmito,calabresa,ovo,massa final,mussarela,queijo brie
+água com gás,sabor catupiry,pepperoni,bacon,frango,ovo,carne seca,massa tradicional,parmesão,provolone
+refrigerante,cream cheese,pepperoni,bacon,pimenta calabresa,NA,NA,massa final,gorgonzola,parmesão
+refrigerante,borda tradicional,cebola,frango,milho,pimenta calabresa,tomate seco,massa final,mussarela,catupiry
+suco de maracujá,sabor catupiry,frango,pepperoni,tomate,alho,palmito,massa tradicional,catupiry,provolone
+cerveja,cheddar,presunto,calabresa,cebola,bacon,orégano,massa tradicional,mussarela,provolone
+refrigerante,cheddar,bacon,queijo cheddar,ovo,azeite de oliva,frango,massa tradicional,mussarela,cheddar
+refrigerante,sabor catupiry,presunto,milho,frango,calabresa,bacon,massa tradicional,mussarela,catupiry
+limonada,borda tradicional,tomate,azeitona,brócolis,cogumelos,pimentão,massa tradicional,mussarela,provolone
+cerveja,sabor catupiry,tomate,queijo de cabra,pimenta calabresa,azeite de oliva,azeitona,massa tradicional,parmesão,provolone
+refrigerante,cream cheese,pepperoni,cebola,alho,bacon,azeitona,massa grossa,provolone,parmesão
+água com gás,sabor catupiry,tomate,frango,bacon,salsinha,azeitona,massa tradicional,catupiry,mussarela
+água com gás,borda tradicional,nozes,brócolis,alho,NA,NA,massa integral,gorgonzola,provolone
+refrigerante,borda tradicional,tomate,pepperoni,calabresa,milho,palmito,massa tradicional,mussarela,provolone
+NA,borda tradicional,nozes,mel,cebola caramelizada,castanhas,uva passa,massa tradicional,mussarela,gorgonzola
+vinho tinto,sabor catupiry,linguiça calabresa defumada,bacon,frango,azeitona,presunto,massa tradicional,cheddar,catupiry
+limonada,sabor catupiry,azeite de oliva,pepperoni,cebola,presunto,berinjela,massa final,provolone,mussarela
+chá gelado,sabor catupiry,palmito,presunto,cogumelos,brócolis,alho,massa grossa,mussarela,parmesão
+refrigerante,borda tradicional,frango,queijo coalho grelhado,NA,NA,NA,massa final,mussarela,parmesão
+cerveja,cream cheese,calabresa,cebola,orégano,azeitona,azeite de oliva,massa final,mussarela,queijo brie
+suco de laranja,borda tradicional,abobrinha,tomate,pimentão,cebola,cogumelos,massa final,mussarela,queijo coalho
+refrigerante,borda tradicional,frango,azeitona,tomate,azeite de oliva,queijo cheddar,massa tradicional,mussarela,catupiry
+vinho tinto,borda tradicional,cogumelos,calabresa,palmito,cebola,tomate seco,massa tradicional,mussarela,gorgonzola
+refrigerante,sabor catupiry,frango,bacon,cebola,milho,alho,massa tradicional,mussarela,cheddar
+cerveja,sabor catupiry,pepperoni,tomate,azeitona,cebola,palmito,massa final,mussarela,queijo coalho
+limonada,borda tradicional,presunto,ovo,orégano,NA,NA,massa final,mussarela,NA
+refrigerante,cream cheese,tomate,queijo coalho grelhado,pepperoni,orégano,azeite de oliva,massa final,mussarela,parmesão
+refrigerante,sabor catupiry,presunto,palmito,pepperoni,cebola,calabresa,massa tradicional,mussarela,parmesão
+água com gás,cream cheese,bacon,milho,tomate,azeite de oliva,tomate seco,massa final,mussarela,gorgonzola
+suco de abacaxi,sabor catupiry,pepperoni,tomate,azeitona,orégano,NA,massa tradicional,mussarela,parmesão
+refrigerante,sabor catupiry,pepperoni,calabresa,bacon,NA,NA,massa tradicional,mussarela,gorgonzola
+refrigerante,borda tradicional,cebola,alho,bacon,azeite de oliva,cogumelos,massa tradicional,mussarela,gorgonzola
+suco de abacaxi,sabor catupiry,palmito,bacon,carne seca,cebola,salsinha,massa tradicional,parmesão,queijo coalho
+NA,borda tradicional,azeite de oliva,cebola caramelizada,cogumelos,alho,queijo gouda,massa final,gorgonzola,queijo brie
+cerveja,borda tradicional,bacon,brócolis,palmito,NA,NA,massa tradicional,mussarela,parmesão
+cerveja,cheddar,pepperoni,azeite de oliva,orégano,queijo gouda,NA,massa tradicional,mussarela,provolone
+vinho tinto,sabor catupiry,cebola,tomate,calabresa,linguiça calabresa defumada,pepperoni,massa grossa,mussarela,gorgonzola
+suco de maracujá,borda tradicional,frango,bacon,brócolis,NA,NA,massa final,mussarela,parmesão
+refrigerante,sabor catupiry,atum,cebola,tomate,azeitona,NA,massa tradicional,mussarela,NA
+suco de maracujá,sabor catupiry,presunto,abacaxi,pimentão,cogumelos,calabresa,massa tradicional,mussarela,cheddar
+suco de maracujá,cream cheese,cebola,frango,carne seca,bacon,calabresa,massa tradicional,catupiry,mussarela
+refrigerante,sabor catupiry,pepperoni,rúcula,picles,azeite de oliva,bacon,massa tradicional,mussarela,parmesão
+refrigerante,cream cheese,pepperoni,bacon,presunto,cebola,pimenta calabresa,massa tradicional,mussarela,queijo brie
+cerveja,cream cheese,alcaparra,rúcula,cebola,cogumelos,bacon,massa integral,queijo brie,queijo feta
+limonada,sabor catupiry,carne seca,linguiça calabresa defumada,cebola,azeitona,pimentão assado,massa tradicional,parmesão,queijo coalho
+refrigerante,sabor catupiry,cebola,calabresa,bacon,NA,NA,massa tradicional,mussarela,NA
+suco de laranja,cream cheese,frango,pepperoni,queijo cheddar,queijo coalho grelhado,calabresa,massa grossa,mussarela,cheddar
+refrigerante,borda tradicional,anchova em conserva,alcaparra,carne seca,alho,picles,massa tradicional,mussarela,NA
+chá gelado,borda tradicional,cogumelos,alho,alho-poró,queijo coalho grelhado,tomate seco,massa final,mussarela,catupiry
+chá gelado,sabor catupiry,alho,brócolis,calabresa,alho-poró,cogumelos,massa tradicional,provolone,queijo brie
+refrigerante,sabor catupiry,frango,bacon,milho,presunto,NA,massa final,mussarela,queijo brie
+água com gás,sabor catupiry,cebola,pepperoni,azeitona,tomate,azeite de oliva,massa tradicional,mussarela,provolone
+refrigerante,cream cheese,cebola,presunto,azeite de oliva,alho,tomate,massa tradicional,mussarela,cheddar
+suco de laranja,sabor catupiry,uva passa,cebola,cebola caramelizada,uva passa,pimenta calabresa,massa tradicional,gorgonzola,provolone
+suco de maracujá,cheddar,bacon,cebola,tomate,calabresa,alho,massa tradicional,mussarela,parmesão
+limonada,sabor catupiry,pepperoni,alho-poró,alho,rúcula,cebola,massa final,mussarela,parmesão
+suco de uva,sabor catupiry,atum,cebola,orégano,tomate,NA,massa tradicional,catupiry,mussarela
+refrigerante,borda tradicional,milho,azeitona,orégano,cebola,NA,massa tradicional,mussarela,NA
+suco de abacaxi,borda tradicional,alcaparra,rúcula,azeitona,abobrinha,espinafre,massa final,queijo coalho,mussarela
+refrigerante,sabor catupiry,alcaparra,cebola,orégano,tomate,bacon,massa tradicional,gorgonzola,provolone
+chá gelado,borda tradicional,beterraba,NA,NA,NA,NA,massa grossa,NA,NA
+limonada,cheddar,pepperoni,orégano,mel,azeite de oliva,pimenta calabresa,massa final,mussarela,cheddar
+refrigerante,sabor catupiry,frango,alho,bacon,palmito,orégano,massa tradicional,mussarela,queijo coalho
+vinho tinto,borda tradicional,bacon,azeitona,brócolis,pepperoni,azeite de oliva,massa tradicional,mussarela,provolone
+água com gás,cheddar,castanhas,mel,carne seca,NA,NA,massa final,cheddar,gorgonzola
+NA,sabor catupiry,pepperoni,carne seca,queijo coalho grelhado,camarão,queijo roquefort,massa integral,mussarela,gorgonzola
+refrigerante,cream cheese,cebola,pimentão,carne seca,tomate,frango,massa grossa,mussarela,NA
+suco de maracujá,borda tradicional,carne seca,orégano,salsinha,cebola,alho,massa grossa,queijo brie,gorgonzola
+suco de uva,cream cheese,rúcula,tomate seco,cebola,alho,NA,massa final,mussarela,provolone
+suco de abacaxi,cheddar,camarão,cogumelos,tomate,bacon,frango,massa tradicional,mussarela,provolone
+refrigerante,cheddar,frango,pepperoni,bacon,carne seca,linguiça calabresa defumada,massa final,mussarela,catupiry
+cerveja,borda tradicional,pepperoni,bacon,cebola,azeite de oliva,azeitona,massa tradicional,mussarela,provolone
+cerveja,cheddar,frango,orégano,ovo,tomate,alho,massa final,mussarela,provolone
+cerveja,borda tradicional,pepperoni,ovo,pimenta calabresa,queijo coalho grelhado,alho,massa integral,provolone,mussarela
+suco de laranja,sabor catupiry,bacon,frango,calabresa,cebola,rúcula,massa final,mussarela,cheddar
+suco de maracujá,cheddar,bacon,linguiça calabresa defumada,frango,pepperoni,camarão,massa final,mussarela,cheddar
+cerveja,borda tradicional,calabresa,azeitona,NA,NA,NA,massa tradicional,mussarela,catupiry
+refrigerante,borda tradicional,pepperoni,tomate,rúcula,atum,calabresa,massa final,mussarela,catupiry
+refrigerante,sabor catupiry,pimentão,pepperoni,NA,NA,NA,massa grossa,gorgonzola,parmesão
+limonada,cream cheese,cebola,milho,tomate seco,pepperoni,orégano,massa final,mussarela,parmesão
+suco de laranja,borda tradicional,calabresa,ovo,cebola,milho,pimentão,massa tradicional,mussarela,provolone
+refrigerante,sabor catupiry,frango,cebola,queijo cheddar,orégano,presunto,massa tradicional,gorgonzola,cheddar
+vinho tinto,borda tradicional,azeitona,rúcula,palmito,queijo gouda,alcaparra,massa final,provolone,gorgonzola
+refrigerante,sabor catupiry,cebola,cogumelos,brócolis,tomate,pepperoni,massa final,mussarela,queijo brie
+suco de laranja,cheddar,frango,tomate,NA,NA,NA,massa tradicional,mussarela,catupiry
+refrigerante,borda tradicional,cogumelos,azeitona,ovo,palmito,camarão,massa final,mussarela,ricota
+refrigerante,borda tradicional,presunto,cebola,milho,tomate,orégano,massa final,mussarela,parmesão
+vinho tinto,cream cheese,lentilha,pêssego,camarão,amêndoas,cereja,massa grossa,mussarela,gorgonzola
+limonada,cream cheese,cebola caramelizada,pepperoni,linguiça calabresa defumada,azeitona,milho,massa tradicional,mussarela,provolone
+refrigerante,sabor catupiry,pepperoni,frango,cebola,tomate,brócolis,massa grossa,mussarela,catupiry
+vinho tinto,borda tradicional,milho,bacon,pepperoni,tomate,calabresa,massa tradicional,mussarela,catupiry
+água com gás,borda tradicional,carne seca,abacaxi,pepperoni,bacon,frango,massa tradicional,mussarela,parmesão
+refrigerante,borda tradicional,palmito,alho-poró,cogumelos,tomate seco,rúcula,massa final,mussarela,catupiry
+cerveja,sabor catupiry,carne seca,pepperoni,queijo de cabra,bacon,tomate,massa final,mussarela,gorgonzola
+refrigerante,sabor catupiry,frango,bacon,queijo cheddar,presunto,calabresa,massa tradicional,mussarela,mussarela
+vinho tinto,borda tradicional,cogumelos,cebola,alho,tomate seco,orégano,massa tradicional,mussarela,parmesão
+refrigerante,borda tradicional,calabresa,cebola,tomate,orégano,calabresa,massa tradicional,mussarela,NA
+suco de maracujá,cream cheese,calabresa,azeite de oliva,orégano,cebola,NA,massa tradicional,gorgonzola,NA
+refrigerante,cream cheese,tomate,abobrinha,abacaxi,cebola caramelizada,alho-poró,massa final,mussarela,queijo brie
+água com gás,sabor catupiry,tomate,tomate seco,bacon,alho,ovo,massa tradicional,queijo brie,ricota
+água com gás,cheddar,pepperoni,palmito,bacon,azeitona,orégano,massa tradicional,mussarela,catupiry
+refrigerante,cream cheese,carne seca,presunto,palmito,bacon,tomate seco,massa tradicional,mussarela,catupiry
+vinho tinto,borda tradicional,cogumelos,azeitona,abobrinha,queijo de cabra,alcaparra,massa final,gorgonzola,queijo feta
+refrigerante,borda tradicional,bacon,pepperoni,pimentão,cebola,tomate,massa final,catupiry,mussarela
+refrigerante,sabor catupiry,pepperoni,frango,tomate,cebola,alho-poró,massa tradicional,mussarela,gorgonzola
+refrigerante,cream cheese,linguiça calabresa defumada,bacon,azeitona,frango,abacaxi,massa final,queijo feta,queijo brie
+refrigerante,cheddar,cogumelos,bacon,rúcula,NA,NA,massa grossa,gorgonzola,parmesão
+suco de maracujá,borda tradicional,frango,abobrinha,queijo gouda,NA,NA,massa tradicional,mussarela,gorgonzola
+refrigerante,borda tradicional,calabresa,bacon,NA,NA,NA,massa final,mussarela,catupiry
+vinho tinto,borda tradicional,bacon,linguiça calabresa defumada,tomate,azeitona,cebola,massa tradicional,mussarela,parmesão
+refrigerante,borda tradicional,pepperoni,alho,orégano,berinjela,alho,massa final,gorgonzola,queijo brie
+água com gás,cream cheese,alho,bacon,frango,ovo,carne seca,massa tradicional,mussarela,catupiry
+refrigerante,sabor catupiry,cebola,frango,ovo,carne seca,linguiça calabresa defumada,massa tradicional,mussarela,parmesão
+refrigerante,cream cheese,brócolis,alho,bacon,pimenta calabresa,ovo,massa tradicional,gorgonzola,parmesão
+suco de uva,cream cheese,abacaxi,atum,NA,NA,NA,massa final,mussarela,provolone
+refrigerante,borda tradicional,presunto,brócolis,bacon,orégano,abacaxi,massa final,mussarela,parmesão
+refrigerante,sabor catupiry,tomate,milho,carne moída,calabresa,orégano,massa final,mussarela,parmesão
+refrigerante,sabor catupiry,tomate,orégano,calabresa,cebola,NA,massa tradicional,mussarela,mussarela
+cerveja,sabor catupiry,tomate,alho,bacon,azeitona,NA,massa final,mussarela,provolone
+refrigerante,borda tradicional,brócolis,azeitona,alho-poró,bacon,NA,massa final,mussarela,parmesão
+refrigerante,sabor catupiry,calabresa,NA,NA,NA,NA,massa final,mussarela,provolone
+cerveja,borda tradicional,pimentão,cebola,linguiça calabresa defumada,pimenta calabresa,tomate,massa tradicional,provolone,gorgonzola
+refrigerante,cheddar,tomate,milho,bacon,linguiça calabresa defumada,cogumelos,massa tradicional,mussarela,provolone
+refrigerante,borda tradicional,tomate,azeitona,presunto,milho,bacon,massa final,mussarela,provolone
+vinho tinto,borda tradicional,cebola,tomate seco,azeite de oliva,orégano,NA,massa tradicional,mussarela,parmesão
+refrigerante,cream cheese,cogumelos,azeitona,cebola,pepperoni,camarão,massa grossa,provolone,cheddar
+chá gelado,sabor catupiry,presunto,tomate,bacon,NA,NA,massa final,provolone,parmesão
+refrigerante,cream cheese,calabresa,bacon,orégano,tomate,cebola,massa final,mussarela,parmesão
+vinho tinto,borda tradicional,queijo gouda,amêndoas,pêssego,NA,NA,massa final,NA,NA
+refrigerante,sabor catupiry,atum,cebola,azeitona,tomate,pimenta biquinho,massa tradicional,mussarela,provolone
+refrigerante,cream cheese,pepperoni,bacon,orégano,azeite de oliva,queijo coalho grelhado,massa final,provolone,parmesão
+suco de abacaxi,borda tradicional,cebola,calabresa,azeite de oliva,NA,NA,massa tradicional,mussarela,NA
+refrigerante,borda tradicional,pepperoni,azeitona,bacon,queijo coalho grelhado,orégano,massa final,mussarela,queijo coalho
+suco de maracujá,cream cheese,alho,tomate,azeitona,tomate,anchova,massa tradicional,parmesão,catupiry
+refrigerante,borda tradicional,tomate,calabresa,orégano,pimentão,bacon,massa final,mussarela,catupiry
+cerveja,borda tradicional,calabresa,azeitona,cebola,NA,NA,massa tradicional,parmesão,provolone
+refrigerante,borda tradicional,pepperoni,cebola,alho,azeite de oliva,tomate,massa tradicional,mussarela,gorgonzola
+refrigerante,cream cheese,frango,palmito,alho-poró,pimentão assado,azeitona,massa tradicional,mussarela,queijo feta
+refrigerante,borda tradicional,camarão,alho,castanhas,NA,rúcula,massa tradicional,mussarela,gorgonzola
+vinho tinto,borda tradicional,tomate,pepperoni,bacon,NA,NA,massa tradicional,mussarela,parmesão
+cerveja,sabor catupiry,brócolis,azeite de oliva,alho,tomate,azeitona,massa final,provolone,cheddar
+refrigerante,borda tradicional,bacon,ovo,abacate,azeitona,cogumelos,massa tradicional,mussarela,gorgonzola
+chá gelado,sabor catupiry,pepperoni,NA,NA,NA,NA,massa final,provolone,mussarela
+refrigerante,borda tradicional,pepperoni,bacon,azeitona,tomate,alcaparra,massa tradicional,mussarela,parmesão
+chá gelado,cream cheese,tomate seco,frango,milho,salsinha,bacon,massa integral,mussarela,parmesão
+chá gelado,sabor catupiry,frango,bacon,milho,azeitona,tomate,massa final,mussarela,catupiry
+refrigerante,borda tradicional,pepperoni,alho,NA,NA,NA,massa tradicional,mussarela,NA
+vinho tinto,sabor catupiry,tomate,brócolis,pepperoni,tomate seco,cogumelos,massa final,gorgonzola,provolone
+vinho tinto,cream cheese,presunto,cebola,alho,ovo,orégano,massa integral,ricota,queijo brie
+refrigerante,borda tradicional,anchova,tomate,azeitona,azeite de oliva,rúcula,massa final,mussarela,NA
+refrigerante,borda tradicional,cebola,tomate,bacon,carne seca,orégano,massa final,mussarela,catupiry
+cerveja,sabor catupiry,calabresa,azeitona,ovo,bacon,cebola,massa final,mussarela,queijo brie
+suco de laranja,sabor catupiry,brócolis,bacon,alho,NA,NA,massa final,mussarela,NA
+vinho tinto,borda tradicional,bacon,tomate seco,azeitona,palmito,linguiça calabresa defumada,massa tradicional,mussarela,gorgonzola
+chá gelado,cream cheese,frango,tomate seco,azeite de oliva,bacon,pimenta biquinho,massa integral,parmesão,ricota
+refrigerante,sabor catupiry,bacon,frango,azeitona,linguiça calabresa defumada,cebola,massa tradicional,catupiry,mussarela
+refrigerante,sabor catupiry,frango,carne seca,queijo roquefort,cebola,orégano,massa tradicional,mussarela,cheddar
+chá gelado,borda tradicional,pimentão assado,cogumelos,azeitona,orégano,alho,massa final,mussarela,queijo coalho
+suco de maracujá,cheddar,pepperoni,queijo roquefort,milho,queijo gouda,azeitona,massa final,gorgonzola,mussarela
+chá gelado,borda tradicional,alcaparra,azeite de oliva,tomate,cogumelos,orégano,massa tradicional,mussarela,queijo brie
+refrigerante,sabor catupiry,azeitona,calabresa,palmito,frango,uva passa,massa final,cheddar,catupiry
+cerveja,borda tradicional,pepperoni,cebola,tomate,bacon,calabresa,massa tradicional,mussarela,queijo coalho
+refrigerante,cream cheese,carne seca,bacon,calabresa,cebola,presunto,massa final,mussarela,cheddar
+refrigerante,sabor catupiry,pepperoni,tomate,cebola,cogumelos,palmito,massa final,mussarela,parmesão
+suco de laranja,borda tradicional,azeite de oliva,linguiça calabresa defumada,bacon,alho,orégano,massa tradicional,parmesão,queijo brie
+refrigerante,sabor catupiry,cebola,calabresa,orégano,tomate,alho,massa tradicional,mussarela,provolone
+cerveja,sabor catupiry,tomate,calabresa,azeite de oliva,queijo gouda,cebola,massa tradicional,mussarela,catupiry
+refrigerante,borda tradicional,bacon,carne seca,alho-poró,pimenta biquinho,queijo coalho grelhado,massa grossa,mussarela,queijo brie
+água com gás,cream cheese,frango,calabresa,tomate,azeitona,orégano,massa tradicional,mussarela,catupiry
+cerveja,sabor catupiry,pepperoni,presunto,rúcula,bacon,tomate seco,massa tradicional,queijo brie,gorgonzola
+limonada,sabor catupiry,pepperoni,azeite de oliva,tomate,queijo gouda,queijo roquefort,massa tradicional,mussarela,parmesão
+água com gás,borda tradicional,calabresa,bacon,presunto,milho,frango,massa final,mussarela,parmesão
+refrigerante,sabor catupiry,orégano,cebola,pepperoni,calabresa,azeite de oliva,massa tradicional,mussarela,cheddar
+refrigerante,borda tradicional,pepperoni,cogumelos,tomate,bacon,orégano,massa grossa,mussarela,catupiry
+refrigerante,sabor catupiry,pepperoni,milho,palmito,bacon,frango,massa tradicional,parmesão,queijo brie
+refrigerante,cheddar,alho,cebola,bacon,calabresa,pimenta calabresa,massa tradicional,parmesão,catupiry
+vinho tinto,sabor catupiry,bacon,frango,orégano,azeite de oliva,tomate seco,massa final,gorgonzola,mussarela
+refrigerante,cheddar,bacon,pimentão,cogumelos,NA,NA,massa tradicional,mussarela,parmesão
+cerveja,borda tradicional,pepperoni,tomate,queijo cheddar,azeitona,bacon,massa final,cheddar,provolone
+vinho tinto,borda tradicional,abobrinha,NA,NA,NA,NA,massa tradicional,mussarela,parmesão
+suco de maracujá,sabor catupiry,pepperoni,bacon,palmito,tomate seco,cebola caramelizada,massa tradicional,catupiry,mussarela
+água com gás,sabor catupiry,calabresa,cebola,ovo,cogumelos,azeitona,massa tradicional,mussarela,gorgonzola
+refrigerante,borda tradicional,cogumelos,calabresa,pepperoni,linguiça calabresa defumada,azeite de oliva,massa final,queijo coalho,parmesão
+limonada,cheddar,calabresa,bacon,presunto,queijo cheddar,camarão,massa tradicional,mussarela,provolone
+refrigerante,borda tradicional,carne seca,cebola,bacon,azeitona,NA,massa tradicional,mussarela,queijo coalho
+refrigerante,borda tradicional,pepperoni,orégano,alho-poró,cogumelos,pimentão,massa tradicional,mussarela,NA
+vinho tinto,borda tradicional,nozes,mel,NA,NA,NA,massa final,gorgonzola,NA
+limonada,sabor catupiry,pepperoni,ervilha,azeitona,bacon,frango,massa tradicional,catupiry,gorgonzola
+cerveja,cheddar,bacon,calabresa,azeitona,tomate,queijo cheddar,massa tradicional,mussarela,catupiry
+suco de abacaxi,cheddar,presunto,azeitona,brócolis,queijo roquefort,lentilha,massa final,ricota,queijo brie
+suco de laranja,borda tradicional,frango,cogumelos,salsinha,orégano,NA,massa final,mussarela,catupiry
+suco de laranja,sabor catupiry,bacon,carne seca,tomate seco,cogumelos,azeitona,massa final,mussarela,parmesão
+refrigerante,borda tradicional,pepperoni,azeitona,cebola,bacon,palmito,massa tradicional,mussarela,cheddar
+NA,sabor catupiry,cogumelos,bacon,milho,NA,NA,massa tradicional,mussarela,parmesão
+NA,borda tradicional,orégano,tomate,linguiça calabresa defumada,cebola,presunto,massa tradicional,mussarela,provolone
+refrigerante,borda tradicional,frango,bacon,azeite de oliva,orégano,azeitona,massa final,catupiry,NA
+suco de abacaxi,borda tradicional,orégano,calabresa,azeitona,tomate,cebola,massa final,mussarela,parmesão
+refrigerante,sabor catupiry,calabresa,linguiça calabresa defumada,orégano,ervilha,milho,massa tradicional,catupiry,mussarela
+suco de maracujá,sabor catupiry,tomate seco,frango,cebola,rúcula,orégano,massa tradicional,parmesão,mussarela
+chá gelado,borda tradicional,bacon,ovo,cogumelos,azeite de oliva,carne seca,massa tradicional,parmesão,catupiry
+suco de laranja,borda tradicional,cebola,azeitona,brócolis,palmito,milho,massa final,NA,NA
+água com gás,sabor catupiry,pepperoni,alho,azeitona,tomate,bacon,massa tradicional,mussarela,provolone
+refrigerante,sabor catupiry,calabresa,cebola,cebola,orégano,NA,massa tradicional,mussarela,catupiry
+limonada,sabor catupiry,pimentão,azeitona,pepperoni,uva passa,cebola,massa final,provolone,mussarela
+água com gás,borda tradicional,calabresa,alho,azeitona,azeite de oliva,anchova em conserva,massa grossa,mussarela,parmesão
+refrigerante,borda tradicional,tomate,calabresa,pepperoni,NA,NA,massa final,mussarela,parmesão
+refrigerante,sabor catupiry,brócolis,bacon,NA,NA,NA,massa tradicional,mussarela,NA
+refrigerante,sabor catupiry,pepperoni,NA,NA,NA,NA,massa grossa,NA,cheddar
+chá gelado,sabor catupiry,alho-poró,orégano,brócolis,linguiça calabresa defumada,atum,massa final,mussarela,provolone
+chá gelado,sabor catupiry,anchova,alcaparra,queijo feta,tofu,amêndoas,massa grossa,queijo brie,gorgonzola
+vinho tinto,borda tradicional,cogumelos,alho,brócolis,espinafre,tomate seco,massa integral,NA,NA
+vinho tinto,sabor catupiry,presunto,ervilha,tomate,palmito,ovo,massa final,mussarela,NA
+chá gelado,sabor catupiry,pepperoni,abobrinha,palmito,azeitona,cebola caramelizada,massa final,mussarela,NA
+NA,borda tradicional,cebola,alho,azeitona,alho-poró,NA,massa tradicional,provolone,parmesão
+cerveja,cheddar,presunto,pepperoni,bacon,palmito,calabresa,massa tradicional,catupiry,mussarela
+refrigerante,sabor catupiry,orégano,queijo cheddar,tomate,calabresa,cebola,massa tradicional,mussarela,cheddar
+chá gelado,borda tradicional,rúcula,tomate seco,NA,NA,NA,massa tradicional,mussarela,NA
+refrigerante,sabor catupiry,frango,tomate,milho,bacon,azeitona,massa tradicional,mussarela,catupiry
+refrigerante,borda tradicional,cebola,calabresa,NA,NA,NA,massa tradicional,NA,mussarela
+refrigerante,cheddar,pepperoni,tomate,cebola,orégano,azeitona,massa tradicional,mussarela,cheddar
+chá gelado,borda tradicional,calabresa,cebola,azeitona,orégano,NA,massa final,mussarela,mussarela
+refrigerante,sabor catupiry,tomate,azeitona,palmito,cebola,queijo gouda,massa tradicional,mussarela,gorgonzola
+suco de laranja,cream cheese,presunto,calabresa,azeitona,ovo,linguiça,massa tradicional,cheddar,catupiry
+suco de abacaxi,borda tradicional,cogumelos,bacon,pepperoni,azeitona,alho,massa integral,mussarela,parmesão
+suco de maracujá,sabor catupiry,tomate,bacon,frango,milho,orégano,massa tradicional,mussarela,catupiry
+suco de maracujá,borda tradicional,calabresa,presunto,azeitona,palmito,bacon,massa final,mussarela,parmesão
+vinho tinto,borda tradicional,azeitona,bacon,linguiça calabresa defumada,presunto,cebola,massa tradicional,parmesão,gorgonzola
+suco de maracujá,cheddar,presunto,pepperoni,bacon,milho,mel,massa tradicional,parmesão,provolone
+NA,borda tradicional,pepperoni,tomate,azeite de oliva,linguiça,rúcula,massa grossa,mussarela,parmesão
+refrigerante,sabor catupiry,bacon,azeite de oliva,presunto,cebola,orégano,massa tradicional,mussarela,catupiry
+limonada,sabor catupiry,alho-poró,pepperoni,rúcula,carne seca,tomate seco,massa integral,mussarela,parmesão
+refrigerante,sabor catupiry,presunto,cebola,azeitona,bacon,tomate seco,massa tradicional,parmesão,cheddar
+refrigerante,sabor catupiry,pepperoni,tomate,cogumelos,orégano,bacon,massa tradicional,mussarela,provolone
+refrigerante,cheddar,queijo gouda,bacon,frango,cogumelos,azeitona,massa tradicional,mussarela,parmesão
+cerveja,cream cheese,pepperoni,calabresa,cebola,tomate seco,bacon,massa final,mussarela,queijo coalho
+chá gelado,sabor catupiry,milho,tomate,calabresa,alho-poró,NA,massa tradicional,queijo coalho,mussarela
+vinho tinto,borda tradicional,carne moída,cebolinha,linguiça,azeite de oliva,linguiça calabresa defumada,massa grossa,mussarela,parmesão
+água com gás,sabor catupiry,cogumelos,azeitona,azeite de oliva,tofu,orégano,massa final,mussarela,gorgonzola
+refrigerante,cream cheese,cebola,pimentão,tomate seco,carne seca,linguiça calabresa defumada,massa final,mussarela,parmesão
+vinho tinto,cheddar,salsinha,pimenta calabresa,alho-poró,azeite de oliva,cogumelos,massa integral,mussarela,provolone
+suco de maracujá,sabor catupiry,presunto,tomate,bacon,calabresa,palmito,massa tradicional,parmesão,mussarela
+refrigerante,sabor catupiry,cogumelos,camarão,alho-poró,alho,azeite de oliva,massa tradicional,mussarela,queijo brie
+refrigerante,sabor catupiry,tomate,azeitona,alho,azeite de oliva,atum,massa tradicional,mussarela,parmesão
+água com gás,cream cheese,alho-poró,linguiça calabresa defumada,queijo coalho grelhado,orégano,cebola,massa tradicional,mussarela,catupiry
+refrigerante,borda tradicional,frango,milho,ovo,alho,orégano,massa final,mussarela,catupiry
+suco de maracujá,sabor catupiry,carne seca,pepperoni,cogumelos,bacon,linguiça calabresa defumada,massa grossa,mussarela,parmesão
+cerveja,sabor catupiry,calabresa,bacon,alho,frango,linguiça calabresa defumada,massa tradicional,mussarela,parmesão
+cerveja,sabor catupiry,tomate,presunto,cebola,azeitona,ovo,massa final,mussarela,parmesão
+limonada,borda tradicional,pepperoni,tomate,azeitona,brócolis,calabresa,massa tradicional,mussarela,parmesão
+vinho tinto,sabor catupiry,alho-poró,tomate,cogumelos,pepperoni,bacon,massa tradicional,mussarela,catupiry
+NA,sabor catupiry,cebola,bacon,linguiça calabresa defumada,azeitona,azeite de oliva,massa tradicional,mussarela,catupiry
+refrigerante,sabor catupiry,linguiça calabresa defumada,tomate seco,cebolinha,azeitona,NA,massa grossa,mussarela,cheddar
+vinho tinto,borda tradicional,presunto,tomate,azeitona,bacon,NA,massa tradicional,mussarela,parmesão
+vinho tinto,cheddar,cebola,frango,bacon,salsinha,milho,massa final,catupiry,provolone
+vinho tinto,sabor catupiry,tomate,presunto,bacon,milho,queijo cheddar,massa tradicional,mussarela,cheddar
+cerveja,cream cheese,cebola,tomate,palmito,camarão,cebolinha,massa final,mussarela,ricota
+suco de uva,sabor catupiry,bacon,ovo,carne seca,milho,pepperoni,massa tradicional,mussarela,parmesão
+água com gás,sabor catupiry,brócolis,bacon,espinafre,azeite de oliva,rúcula,massa tradicional,parmesão,queijo coalho
+refrigerante,sabor catupiry,cogumelos,azeitona,pepperoni,NA,NA,massa tradicional,mussarela,queijo brie
+refrigerante,borda tradicional,presunto,calabresa,milho,alho-poró,salsinha,massa final,mussarela,parmesão
+cerveja,borda tradicional,pepperoni,azeitona,cebola,azeite de oliva,rúcula,massa tradicional,mussarela,gorgonzola
+cerveja,cream cheese,azeite de oliva,pepperoni,orégano,tomate,alho,massa tradicional,gorgonzola,queijo brie
+suco de laranja,borda tradicional,presunto,tomate,bacon,calabresa,frango,massa final,mussarela,parmesão
+chá gelado,cream cheese,frango,brócolis,cogumelos,cebola,alho,massa final,mussarela,gorgonzola
+suco de maracujá,cheddar,alho,brócolis,cebola,palmito,alho-poró,massa final,mussarela,NA
+refrigerante,cream cheese,calabresa,queijo coalho grelhado,tomate,milho,carne seca,massa tradicional,mussarela,catupiry
+suco de maracujá,sabor catupiry,linguiça calabresa defumada,cebola,bacon,orégano,NA,massa tradicional,mussarela,queijo coalho
+suco de maracujá,sabor catupiry,pepperoni,milho,tomate,bacon,calabresa,massa tradicional,cheddar,catupiry
+cerveja,borda tradicional,pepperoni,queijo gouda,cebola,tomate,azeitona,massa final,mussarela,parmesão
+vinho tinto,cheddar,bacon,linguiça calabresa defumada,uva passa,frango,tomate,massa tradicional,cheddar,catupiry
+refrigerante,borda tradicional,pepperoni,bacon,orégano,cebola,cogumelos,massa tradicional,mussarela,cheddar
+cerveja,sabor catupiry,pepperoni,tomate,azeitona,espinafre,frango,massa tradicional,mussarela,catupiry
+refrigerante,cream cheese,azeitona,camarão,presunto,NA,NA,massa tradicional,gorgonzola,mussarela
+vinho tinto,cream cheese,alho,ovo,queijo coalho grelhado,cebola caramelizada,orégano,massa final,mussarela,parmesão
+suco de laranja,sabor catupiry,carne seca,cebola,azeitona,tomate,bacon,massa tradicional,mussarela,queijo coalho
+vinho tinto,sabor catupiry,bacon,calabresa,pimenta calabresa,cebola,tomate,massa tradicional,mussarela,catupiry
+refrigerante,cream cheese,tomate,azeitona,bacon,ovo,presunto,massa tradicional,cheddar,gorgonzola
+limonada,borda tradicional,pepperoni,cogumelos,azeitona,alho,azeite de oliva,massa final,mussarela,queijo coalho
+vinho tinto,borda tradicional,anchova em conserva,cogumelos,tomate,pepperoni,cebola,massa tradicional,mussarela,gorgonzola
+suco de abacaxi,sabor catupiry,cebola,anchova,carne seca,cogumelos,cebola,massa tradicional,gorgonzola,cheddar
+refrigerante,borda tradicional,bacon,linguiça calabresa defumada,presunto,tomate,frango,massa tradicional,mussarela,parmesão
+suco de abacaxi,sabor catupiry,brócolis,tomate,cebola,abobrinha,espinafre,massa tradicional,NA,NA
+refrigerante,borda tradicional,pimentão,presunto,pepperoni,calabresa,orégano,massa grossa,mussarela,parmesão
+suco de laranja,sabor catupiry,milho,tomate,calabresa,presunto,cebola caramelizada,massa tradicional,mussarela,catupiry
+refrigerante,borda tradicional,calabresa,tomate,tomate,NA,NA,massa final,mussarela,mussarela
+cerveja,sabor catupiry,pepperoni,tomate,bacon,NA,NA,massa tradicional,mussarela,parmesão
+suco de uva,cheddar,espinafre,abobrinha,alcaparra,berinjela,frango,massa grossa,parmesão,mussarela
+refrigerante,sabor catupiry,azeitona,frango,tomate,atum,milho,massa tradicional,catupiry,cheddar
+cerveja,sabor catupiry,carne seca,cebola caramelizada,mel,queijo de cabra,NA,massa tradicional,mussarela,queijo brie
+chá gelado,borda tradicional,pepperoni,cebola,alho,frango,bacon,massa tradicional,mussarela,queijo coalho
+suco de abacaxi,borda tradicional,pepperoni,tomate,bacon,camarão,carne seca,massa tradicional,mussarela,gorgonzola
+cerveja,cream cheese,azeite de oliva,alcaparra,tomate,alho,azeitona,massa final,gorgonzola,queijo brie
+cerveja,sabor catupiry,brócolis,milho,camarão,NA,NA,massa tradicional,mussarela,catupiry
+suco de uva,sabor catupiry,pepperoni,azeitona,cebola,orégano,cebolinha,massa tradicional,mussarela,cheddar
+suco de maracujá,cheddar,tomate,palmito,frango,orégano,ovo,massa tradicional,parmesão,mussarela
+refrigerante,cheddar,bacon,tomate,cebola,orégano,milho,massa final,mussarela,cheddar
+chá gelado,borda tradicional,pimentão,azeitona,tomate seco,tomate,cogumelos,massa final,parmesão,cheddar
+vinho tinto,cream cheese,pepperoni,azeitona,cogumelos,tomate seco,cebola caramelizada,massa final,queijo brie,provolone
+suco de laranja,sabor catupiry,frango,bacon,milho,presunto,azeitona,massa final,catupiry,mussarela
+chá gelado,borda tradicional,palmito,cogumelos,pepperoni,pimentão,azeitona,massa tradicional,provolone,mussarela
+suco de abacaxi,sabor catupiry,alho,pimentão,picles,calabresa,milho,massa tradicional,cheddar,catupiry
+refrigerante,cheddar,frango,azeitona,milho,carne seca,tomate,massa final,mussarela,catupiry
+cerveja,borda tradicional,azeitona,NA,orégano,NA,NA,massa tradicional,provolone,gorgonzola
+refrigerante,sabor catupiry,bacon,calabresa,cogumelos,tomate,linguiça,massa final,mussarela,catupiry
+refrigerante,borda tradicional,milho,linguiça calabresa defumada,presunto,cebola,bacon,massa grossa,mussarela,NA
+cerveja,sabor catupiry,cebola,pepperoni,tomate,azeitona,milho,massa tradicional,mussarela,provolone
+refrigerante,borda tradicional,bacon,milho,NA,orégano,NA,massa tradicional,mussarela,gorgonzola
+vinho tinto,borda tradicional,cebola,cogumelos,pepperoni,azeitona,bacon,massa tradicional,cheddar,catupiry
+suco de abacaxi,cheddar,azeitona,calabresa,bacon,NA,NA,massa tradicional,mussarela,NA
+chá gelado,borda tradicional,lentilha,grão de bico,alho-poró,uva passa,pimenta biquinho,massa integral,queijo coalho,ricota
+cerveja,cream cheese,brócolis,calabresa,bacon,alho,tomate,massa tradicional,mussarela,catupiry
+suco de laranja,sabor catupiry,milho,pimentão assado,atum,tomate seco,azeitona,massa final,mussarela,catupiry
+refrigerante,sabor catupiry,presunto,tomate,orégano,camarão,azeitona,massa tradicional,cheddar,queijo coalho
+refrigerante,cheddar,linguiça calabresa defumada,azeitona,bacon,ovo,pimenta calabresa,massa final,mussarela,parmesão
+refrigerante,borda tradicional,pepperoni,tomate,alho,NA,NA,massa tradicional,mussarela,NA
+cerveja,sabor catupiry,bacon,azeitona,pepperoni,cogumelos,orégano,massa final,gorgonzola,queijo brie
+refrigerante,sabor catupiry,bacon,presunto,calabresa,cebola,ovo,massa tradicional,catupiry,mussarela
+água com gás,borda tradicional,cogumelos,pepperoni,alho,azeitona,cebola,massa grossa,gorgonzola,mussarela
+refrigerante,borda tradicional,cogumelos,calabresa,palmito,alho,bacon,massa final,mussarela,parmesão
+refrigerante,borda tradicional,tomate,alho,milho,calabresa,cebolinha,massa final,mussarela,parmesão
+cerveja,borda tradicional,azeitona,tomate,cogumelos,abobrinha,orégano,massa tradicional,mussarela,catupiry
+refrigerante,borda tradicional,pimentão,camarão,azeitona,frango,queijo coalho grelhado,massa tradicional,mussarela,parmesão
+vinho tinto,borda tradicional,rúcula,cebola caramelizada,tomate seco,bacon,alho-poró,massa tradicional,mussarela,parmesão
+refrigerante,borda tradicional,tomate,calabresa,anchova,pepperoni,ovo,massa tradicional,mussarela,catupiry
+cerveja,sabor catupiry,pepperoni,cebola,cebola,bacon,palmito,massa grossa,parmesão,queijo brie
+cerveja,borda tradicional,bacon,alho,alho,carne moída,berinjela,massa tradicional,provolone,mussarela
+refrigerante,sabor catupiry,bacon,queijo gouda,azeitona,calabresa,frango,massa tradicional,mussarela,mussarela
+vinho tinto,cream cheese,camarão,alho-poró,carne seca,cebolinha,azeite de oliva,massa final,mussarela,catupiry
+limonada,sabor catupiry,pepperoni,carne seca,azeite de oliva,queijo roquefort,rúcula,massa integral,mussarela,parmesão
+suco de laranja,cheddar,calabresa,tomate,presunto,ovo,abacaxi,massa tradicional,mussarela,catupiry
+limonada,cream cheese,cebola,pepperoni,pimentão,tomate,bacon,massa tradicional,parmesão,provolone
+limonada,borda tradicional,alho,pepperoni,NA,NA,NA,massa grossa,mussarela,NA
+suco de laranja,borda tradicional,presunto,cebola,azeitona,tomate,linguiça calabresa defumada,massa tradicional,parmesão,mussarela
+suco de laranja,sabor catupiry,pepperoni,carne moída,tomate,cebola,frango,massa tradicional,mussarela,parmesão
+suco de laranja,borda tradicional,presunto,calabresa,bacon,cebola caramelizada,orégano,massa tradicional,mussarela,catupiry
+água com gás,sabor catupiry,tomate,cebola,pepperoni,alcaparra,alho-poró,massa tradicional,gorgonzola,parmesão
+limonada,cream cheese,frango,carne seca,alho-poró,milho,bacon,massa final,parmesão,mussarela
+refrigerante,borda tradicional,azeitona,tomate,milho,alho,orégano,massa tradicional,mussarela,parmesão
+água com gás,sabor catupiry,bacon,calabresa,linguiça calabresa defumada,frango,carne seca,massa final,mussarela,provolone
+suco de laranja,cheddar,pepperoni,tomate,queijo de cabra,presunto,palmito,massa tradicional,mussarela,parmesão
+suco de maracujá,sabor catupiry,pepperoni,bacon,alho,frango,NA,massa tradicional,mussarela,NA
+refrigerante,borda tradicional,cebola,pepperoni,azeitona,milho,alho,massa tradicional,parmesão,mussarela
+cerveja,borda tradicional,pepperoni,pimenta calabresa,alho-poró,beterraba,azeite de oliva,massa final,mussarela,provolone
+vinho tinto,borda tradicional,picles,pepperoni,tomate,presunto,bacon,massa tradicional,mussarela,gorgonzola
+limonada,cream cheese,tomate,azeitona,palmito,frango,orégano,massa final,mussarela,catupiry
+cerveja,borda tradicional,cebola,presunto,azeite de oliva,pepperoni,tomate,massa final,provolone,parmesão
+vinho tinto,sabor catupiry,alho,bacon,orégano,milho,frango,massa tradicional,mussarela,parmesão
+refrigerante,sabor catupiry,calabresa,pepperoni,cogumelos,bacon,queijo de cabra,massa final,mussarela,cheddar
+chá gelado,sabor catupiry,cogumelos,bacon,linguiça calabresa defumada,linguiça,calabresa,massa tradicional,cheddar,mussarela
+cerveja,sabor catupiry,cebola,azeitona,azeite de oliva,picles,pimentão,massa tradicional,mussarela,ricota
+cerveja,sabor catupiry,calabresa,presunto,cogumelos,cebola,azeitona,massa tradicional,catupiry,mussarela
+refrigerante,sabor catupiry,tomate,cebola,orégano,calabresa,ovo,massa tradicional,mussarela,gorgonzola
+cerveja,cheddar,tomate,pepperoni,bacon,queijo cheddar,ovo,massa tradicional,catupiry,mussarela
+suco de uva,borda tradicional,mel,pêssego,nozes,NA,NA,massa final,mussarela,gorgonzola
+vinho tinto,sabor catupiry,tomate,azeitona,bacon,ovo,orégano,massa final,provolone,queijo brie
+refrigerante,borda tradicional,tomate,pepperoni,cebola,cogumelos,orégano,massa final,cheddar,gorgonzola
+suco de uva,borda tradicional,bacon,alho,azeitona,tomate,cogumelos,massa final,mussarela,NA
+refrigerante,sabor catupiry,cebola,cebola,frango,NA,NA,massa tradicional,catupiry,mussarela
+refrigerante,cheddar,calabresa,cebola,azeitona,bacon,pimenta biquinho,massa tradicional,parmesão,mussarela
+vinho tinto,cream cheese,cogumelos,tomate,bacon,milho,cebola,massa final,mussarela,parmesão
+refrigerante,sabor catupiry,cogumelos,cebola caramelizada,orégano,NA,NA,massa tradicional,mussarela,catupiry
+suco de abacaxi,cream cheese,brócolis,alcaparra,brócolis,brócolis,brócolis,massa tradicional,ricota,ricota
+limonada,borda tradicional,presunto,tomate,azeitona,orégano,ovo,massa grossa,mussarela,catupiry
+água com gás,borda tradicional,pepperoni,cebola,pimentão,azeitona,tomate,massa tradicional,gorgonzola,mussarela
+chá gelado,borda tradicional,tomate,picles,azeite de oliva,azeitona,cebola,massa tradicional,NA,NA
+vinho tinto,borda tradicional,tomate,azeitona,NA,NA,NA,massa tradicional,mussarela,parmesão
+cerveja,borda tradicional,cebola,calabresa,pimentão,pimenta calabresa,tomate,massa final,mussarela,parmesão
+refrigerante,cheddar,brócolis,bacon,palmito,frango,cebola,massa final,parmesão,mussarela
+água com gás,sabor catupiry,presunto,tomate,queijo cheddar,azeitona,cogumelos,massa final,parmesão,mussarela
+refrigerante,sabor catupiry,linguiça calabresa defumada,cebola,tomate seco,azeitona,NA,massa grossa,mussarela,cheddar
+refrigerante,borda tradicional,brócolis,milho,tomate seco,bacon,orégano,massa tradicional,catupiry,gorgonzola
+limonada,borda tradicional,calabresa,atum,bacon,NA,NA,massa integral,mussarela,provolone
+água com gás,sabor catupiry,pepperoni,azeite de oliva,presunto,alho,linguiça,massa final,mussarela,queijo coalho
+refrigerante,cream cheese,bacon,rúcula,tomate,palmito,queijo roquefort,massa tradicional,provolone,gorgonzola
+cerveja,sabor catupiry,presunto,pepperoni,tomate,camarão,castanhas,massa tradicional,gorgonzola,provolone
+limonada,sabor catupiry,presunto,azeitona,tomate,cebola,milho,massa final,mussarela,cheddar
+água com gás,borda tradicional,cebola,azeitona,bacon,calabresa,palmito,massa final,cheddar,NA
+refrigerante,borda tradicional,tomate,bacon,azeite de oliva,azeite de oliva,ovo,massa tradicional,cheddar,NA
+refrigerante,borda tradicional,cebola,bacon,linguiça calabresa defumada,orégano,azeitona,massa tradicional,mussarela,catupiry
+vinho tinto,sabor catupiry,azeitona,cogumelos,tomate,NA,queijo cheddar,massa tradicional,mussarela,provolone
+chá gelado,cream cheese,abobrinha,berinjela,linguiça,grão de bico,atum,massa tradicional,gorgonzola,provolone
+suco de laranja,cream cheese,bacon,bacon,frango,cebola,ovo,massa grossa,gorgonzola,ricota
+suco de abacaxi,sabor catupiry,cebola,milho,atum,carne seca,presunto,massa final,ricota,parmesão
+limonada,cheddar,rúcula,cogumelos,tomate,alho,queijo cheddar,massa tradicional,provolone,parmesão
+refrigerante,borda tradicional,palmito,NA,NA,NA,NA,massa tradicional,mussarela,catupiry
+limonada,borda tradicional,pepperoni,tomate,azeite de oliva,NA,NA,massa tradicional,mussarela,parmesão
+suco de maracujá,sabor catupiry,queijo gouda,frango,bacon,tomate,palmito,massa tradicional,mussarela,queijo feta
+refrigerante,sabor catupiry,tomate,bacon,linguiça calabresa defumada,alho,tomate seco,massa grossa,mussarela,gorgonzola
+limonada,borda tradicional,tomate,anchova,NA,NA,NA,massa tradicional,mussarela,NA
+suco de laranja,borda tradicional,cogumelos,azeitona,brócolis,alho-poró,carne seca,massa grossa,mussarela,queijo coalho
+cerveja,borda tradicional,pepperoni,cebola,rúcula,azeite de oliva,bacon,massa final,mussarela,cheddar
+suco de maracujá,cheddar,frango,bacon,orégano,milho,NA,massa tradicional,mussarela,catupiry
+água com gás,borda tradicional,pepperoni,cogumelos,cebola,tomate,abacaxi,massa tradicional,parmesão,NA
+refrigerante,borda tradicional,pepperoni,cebola,azeite de oliva,orégano,rúcula,massa tradicional,parmesão,mussarela
+água com gás,cheddar,cebola,pimentão,linguiça calabresa defumada,frango,milho,massa tradicional,cheddar,provolone
+refrigerante,cheddar,tomate,alho,pimentão,cebola,palmito,massa tradicional,catupiry,queijo brie
+suco de laranja,cream cheese,alho,presunto,bacon,tomate,cebola,massa final,mussarela,parmesão
+refrigerante,sabor catupiry,brócolis,tomate,tomate seco,bacon,rúcula,massa grossa,gorgonzola,mussarela
+refrigerante,sabor catupiry,tomate,calabresa,NA,NA,NA,massa tradicional,mussarela,queijo coalho
+cerveja,cream cheese,alho,azeitona,azeite de oliva,pepperoni,orégano,massa final,mussarela,gorgonzola
+refrigerante,borda tradicional,palmito,pepperoni,bacon,calabresa,picles,massa tradicional,parmesão,gorgonzola
+suco de laranja,sabor catupiry,calabresa,milho,bacon,frango,azeitona,massa grossa,mussarela,gorgonzola
+suco de laranja,cheddar,alho,pepperoni,azeitona,cebola,milho,massa tradicional,mussarela,cheddar
+vinho tinto,borda tradicional,tomate,cogumelos,cebola,pepperoni,azeite de oliva,massa tradicional,mussarela,parmesão
+cerveja,borda tradicional,cebola,alho,bacon,azeitona,brócolis,massa tradicional,mussarela,parmesão
+vinho tinto,cream cheese,cebola,tomate,carne seca,pimenta biquinho,orégano,massa final,mussarela,gorgonzola
+vinho tinto,sabor catupiry,queijo gouda,carne seca,NA,azeite de oliva,NA,massa final,queijo brie,catupiry
+refrigerante,sabor catupiry,calabresa,cebola,queijo gouda,cebola caramelizada,salsinha,massa tradicional,mussarela,provolone
+cerveja,borda tradicional,cogumelos,azeite de oliva,tomate seco,brócolis,alho-poró,massa tradicional,mussarela,parmesão
+suco de abacaxi,cream cheese,tomate,azeite de oliva,cogumelos,cogumelos,pimentão,massa tradicional,queijo brie,parmesão
+refrigerante,cream cheese,frango,bacon,calabresa,NA,NA,massa grossa,mussarela,catupiry
+refrigerante,borda tradicional,tomate,cebola,presunto,azeitona,ovo,massa final,mussarela,parmesão
+refrigerante,sabor catupiry,tomate,presunto,cebola,azeite de oliva,alho,massa final,gorgonzola,mussarela
+limonada,sabor catupiry,brócolis,tomate,milho,queijo coalho grelhado,azeitona,massa grossa,provolone,mussarela
+suco de maracujá,borda tradicional,pepperoni,azeite de oliva,tomate,ovo,cebola,massa final,mussarela,catupiry
+suco de maracujá,borda tradicional,azeitona,orégano,tomate,azeite de oliva,NA,massa tradicional,mussarela,NA
+suco de laranja,sabor catupiry,azeitona,calabresa,carne seca,NA,NA,massa tradicional,mussarela,mussarela
+refrigerante,sabor catupiry,pepperoni,azeitona,presunto,orégano,pimenta calabresa,massa tradicional,mussarela,parmesão
+refrigerante,borda tradicional,linguiça calabresa defumada,carne seca,pimenta calabresa,NA,NA,massa grossa,mussarela,NA
+vinho tinto,cheddar,orégano,bacon,linguiça calabresa defumada,azeitona,presunto,massa final,mussarela,parmesão
+refrigerante,sabor catupiry,calabresa,frango,carne seca,azeitona,tomate,massa tradicional,mussarela,catupiry
+refrigerante,cheddar,azeitona,bacon,orégano,ovo,cebola,massa tradicional,mussarela,cheddar
+refrigerante,borda tradicional,cebola,presunto,tomate,milho,ovo,massa final,mussarela,NA
+chá gelado,sabor catupiry,pepperoni,cebola,calabresa,uva passa,azeite de oliva,massa final,mussarela,catupiry
+água com gás,sabor catupiry,palmito,cebola,tomate,alho-poró,picles,massa final,mussarela,catupiry
+cerveja,borda tradicional,tomate,alho,cebola,rúcula,bacon,massa tradicional,gorgonzola,queijo brie
+vinho tinto,borda tradicional,tomate,frango,orégano,queijo gouda,cebola caramelizada,massa final,parmesão,queijo brie
+cerveja,sabor catupiry,pepperoni,calabresa,cogumelos,tomate,ovo,massa final,provolone,mussarela
+cerveja,borda tradicional,calabresa,cogumelos,anchova,tomate,abobrinha,massa final,mussarela,gorgonzola
+suco de maracujá,sabor catupiry,bacon,milho,palmito,NA,NA,massa grossa,parmesão,provolone
+cerveja,borda tradicional,calabresa,azeitona,tomate seco,azeite de oliva,orégano,massa tradicional,provolone,ricota
+refrigerante,cheddar,cogumelos,alho,presunto,brócolis,carne seca,massa tradicional,gorgonzola,mussarela
+cerveja,borda tradicional,cogumelos,tomate,azeitona,azeite de oliva,cebolinha,massa final,gorgonzola,mussarela
+vinho tinto,cream cheese,tomate,azeitona,carne seca,queijo de cabra,cogumelos,massa tradicional,gorgonzola,provolone
+suco de laranja,sabor catupiry,bacon,frango,camarão,pimenta calabresa,cebolinha,massa tradicional,mussarela,parmesão
+chá gelado,sabor catupiry,pepperoni,bacon,azeitona,calabresa,milho,massa tradicional,mussarela,catupiry
+refrigerante,borda tradicional,tomate,alho,cogumelos,palmito,espinafre,massa final,mussarela,gorgonzola
+refrigerante,cheddar,tomate,presunto,queijo cheddar,rúcula,cebola,massa tradicional,mussarela,cheddar
+refrigerante,borda tradicional,calabresa,azeitona,ovo,NA,NA,massa grossa,mussarela,parmesão
+vinho tinto,borda tradicional,tomate,cebola,cogumelos,alho,azeite de oliva,massa tradicional,gorgonzola,queijo brie
+cerveja,sabor catupiry,pepperoni,bacon,calabresa,atum,tomate seco,massa tradicional,mussarela,gorgonzola
+limonada,borda tradicional,azeitona,tomate,azeite de oliva,orégano,bacon,massa final,mussarela,queijo brie
+suco de maracujá,sabor catupiry,pepperoni,alho,bacon,orégano,queijo gouda,massa tradicional,mussarela,provolone
+suco de abacaxi,borda tradicional,alho,tomate,azeitona,orégano,carne seca,massa tradicional,mussarela,parmesão
